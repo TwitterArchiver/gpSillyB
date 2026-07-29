@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2013824620252799012",
+    "created_at": "2026-01-25T17:58:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T18:58:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015484384275755289"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1914102171190345728",
+          "start": 0,
+          "username": "_4jrilfk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015484384275755289",
+    "in_reply_to_user_id": "1914102171190345728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014687749354488100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_4jrilfk そうです"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2013824620252799012",
+        "created_at": "2026-01-25T17:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T18:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015484384275755289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1914102171190345728",
+              "start": 0,
+              "username": "_4jrilfk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015484384275755289",
+        "in_reply_to_user_id": "1914102171190345728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014687749354488100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_4jrilfk そうです"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914102171190345728",
+        "conversation_id": "2013824620252799012",
+        "created_at": "2026-01-23T13:12:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T14:12:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014687749354488100"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "中国",
+              "probability": 0.8164,
+              "start": 10,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1682793693630304260",
+              "start": 0,
+              "username": "gpSillyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014687749354488100",
+        "in_reply_to_user_id": "1682793693630304260",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013936336441663883",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gpSillyB 中国も銃禁止だよね？🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 32,
+          "like_count": 226,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 85
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T23:41:50.000Z",
+        "description": "ljc",
+        "id": "1914102171190345728",
+        "name": "不登校ニート西成ホームレス",
+        "pinned_tweet_id": "1980248974440476676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988976038374961158/yMjisNwm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 119,
+          "like_count": 2632,
+          "listed_count": 6,
+          "media_count": 45,
+          "tweet_count": 1304
+        },
+        "username": "_4jrilfk",
+        "verified": false
+      }
+    ]
+  }
+}

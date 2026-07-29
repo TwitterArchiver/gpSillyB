@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2051916653546594359",
+    "created_at": "2026-05-06T06:58:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T07:58:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051919592537444770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028814965965312001",
+          "start": 0,
+          "username": "Miiharukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051919592537444770",
+    "in_reply_to_user_id": "2028814965965312001",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051916653546594359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miiharukawa 大主播!"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 147654,
+        "height": 1280,
+        "media_key": "13_2051916263618965504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051916263618965504/img/MYDjJMhMXOSeL78g.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051916263618965504/vid/avc1/320x694/XtKuj0BMvwWQk1TL.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051916263618965504/vid/avc1/480x1040/rZELgbWyHLEY3999.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051916263618965504/vid/avc1/590x1280/u2jH4Gy8TJoisWvP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051916263618965504/pl/Nyz93L6imtsJoBTF.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2051916653546594359",
+        "created_at": "2026-05-06T06:58:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T07:58:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051919592537444770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051919592537444770",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051916653546594359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 大主播!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051916263618965504"
+          ]
+        },
+        "author_id": "2028814965965312001",
+        "conversation_id": "2051916653546594359",
+        "created_at": "2026-05-06T06:47:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T07:47:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051916653546594359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QAvwaR5kzH",
+              "end": 44,
+              "expanded_url": "https://x.com/Miiharukawa/status/2051916653546594359/video/1",
+              "media_key": "13_2051916263618965504",
+              "start": 21,
+              "url": "https://t.co/QAvwaR5kzH"
+            },
+            {
+              "display_url": "x.com/miiharukawa/st…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/miiharukawa/status/2051315811177095287",
+              "start": 45,
+              "url": "https://t.co/cfWLGRKHY0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051916653546594359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051315811177095287",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哈喽 考虑到有人没办法听所以也放了字幕！ https://t.co/QAvwaR5kzH https://t.co/cfWLGRKHY0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 112,
+          "like_count": 3305,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 697
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "心的距离是遥不可及",
+        "id": "2028814965965312001",
+        "name": "遥",
+        "pinned_tweet_id": "2050777585878175845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028815256949342208/hoWGdF7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1327,
+          "following_count": 214,
+          "like_count": 6811,
+          "listed_count": 3,
+          "media_count": 265,
+          "tweet_count": 2640
+        },
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

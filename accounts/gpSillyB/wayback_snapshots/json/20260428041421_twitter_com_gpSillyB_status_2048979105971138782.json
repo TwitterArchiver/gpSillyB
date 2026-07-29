@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2048978824331923702",
+    "created_at": "2026-04-28T04:14:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T05:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048979105971138782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1809776727952093187",
+          "start": 0,
+          "username": "momuzi20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048979105971138782",
+    "in_reply_to_user_id": "1809776727952093187",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048978824331923702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momuzi20 😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2048978824331923702",
+        "created_at": "2026-04-28T04:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048979105971138782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1809776727952093187",
+              "start": 0,
+              "username": "momuzi20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048979105971138782",
+        "in_reply_to_user_id": "1809776727952093187",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048978824331923702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momuzi20 😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809776727952093187",
+        "conversation_id": "2048978824331923702",
+        "created_at": "2026-04-28T04:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T05:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048978824331923702"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048978824331923702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "草泥马遇到晶哥了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 114,
+          "like_count": 2439,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 604
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T02:30:23.000Z",
+        "description": "🏳️‍⚧️超敏感地雷NPD非量产/发泄现生想鼠纯负能量号/约4⃣️+++/不是约炮，约炮的滚",
+        "id": "1809776727952093187",
+        "location": "Sydney, New South Wales",
+        "name": "🏳️‍⚧️momuzi/CN紫莎+",
+        "pinned_tweet_id": "2043604242511040806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012652698500268032/gefwIlEw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 101,
+          "like_count": 981,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 305
+        },
+        "username": "momuzi20",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2062828049394266611",
+    "created_at": "2026-06-09T20:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T21:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064438492634251299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1918123618611150848",
+          "start": 0,
+          "username": "Bunnyloustin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064438492634251299",
+    "in_reply_to_user_id": "1918123618611150848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062828049394266611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bunnyloustin 感谢!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2062828049394266611",
+        "created_at": "2026-06-09T20:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T21:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064438492634251299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1918123618611150848",
+              "start": 0,
+              "username": "Bunnyloustin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064438492634251299",
+        "in_reply_to_user_id": "1918123618611150848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062828049394266611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bunnyloustin 感谢!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918123618611150848",
+        "conversation_id": "2062828049394266611",
+        "created_at": "2026-06-05T09:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T10:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062828049394266611"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "统一的 AI 模型聚合与分发网关，支持将各类大语言模型跨格式转换为 OpenAI、Claude、Gemini 兼容接口，为个人与企业提供集中式模型管理与网关服务。",
+              "display_url": "api.treegpt.cc",
+              "end": 81,
+              "expanded_url": "https://api.treegpt.cc/",
+              "start": 58,
+              "status": 200,
+              "title": "New API",
+              "unwound_url": "https://api.treegpt.cc/",
+              "url": "https://t.co/ogLpPCdXpg"
+            },
+            {
+              "description": "统一的 AI 模型聚合与分发网关，支持将各类大语言模型跨格式转换为 OpenAI、Claude、Gemini 兼容接口，为个人与企业提供集中式模型管理与网关服务。",
+              "display_url": "woof.guagua.uk/register?aff=T…",
+              "end": 109,
+              "expanded_url": "https://woof.guagua.uk/register?aff=TbGU",
+              "start": 86,
+              "status": 200,
+              "title": "New API",
+              "unwound_url": "https://woof.guagua.uk/register?aff=TbGU",
+              "url": "https://t.co/WhjLI5hyXR"
+            },
+            {
+              "description": "统一的 AI 模型聚合与分发网关，支持将各类大语言模型跨格式转换为 OpenAI、Claude、Gemini 兼容接口，为个人与企业提供集中式模型管理与网关服务。",
+              "display_url": "msuicode.com/register?aff=M…",
+              "end": 138,
+              "expanded_url": "https://www.msuicode.com/register?aff=MFLX",
+              "start": 115,
+              "status": 200,
+              "title": "New API",
+              "unwound_url": "https://www.msuicode.com/register?aff=MFLX",
+              "url": "https://t.co/qDDyN1PB5Q"
+            },
+            {
+              "description": "统一的 AI 模型聚合与分发网关，支持将各类大语言模型跨格式转换为 OpenAI、Claude、Gemini 兼容接口，为个人与企业提供集中式模型管理与网关服务。",
+              "display_url": "api.68886868.xyz/register?aff=G…",
+              "end": 167,
+              "expanded_url": "https://api.68886868.xyz/register?aff=GAOO",
+              "start": 144,
+              "status": 200,
+              "title": "New API",
+              "unwound_url": "https://api.68886868.xyz/register?aff=GAOO",
+              "url": "https://t.co/3HsSiIZbc3"
+            },
+            {
+              "description": "统一的 AI 模型聚合与分发网关，支持将各类大语言模型跨格式转换为 OpenAI、Claude、Gemini 兼容接口，为个人与企业提供集中式模型管理与网关服务。",
+              "display_url": "api.fuka.win/register?aff=A…",
+              "end": 195,
+              "expanded_url": "https://api.fuka.win/register?aff=AJYG",
+              "start": 172,
+              "status": 200,
+              "title": "New API",
+              "unwound_url": "https://api.fuka.win/register?aff=AJYG",
+              "url": "https://t.co/BxEwoXn83t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062828049394266611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "api.treegpt.cc",
+                "end": 81,
+                "expanded_url": "https://api.treegpt.cc/",
+                "start": 58,
+                "url": "https://t.co/VWZiIJmWpZ"
+              },
+              {
+                "display_url": "woof.guagua.uk/register?aff=T…",
+                "end": 109,
+                "expanded_url": "https://woof.guagua.uk/register?aff=TbGU",
+                "start": 86,
+                "url": "https://t.co/4khf1o9R0G"
+              },
+              {
+                "display_url": "msuicode.com/register?aff=M…",
+                "end": 138,
+                "expanded_url": "https://www.msuicode.com/register?aff=MFLX",
+                "start": 115,
+                "url": "https://t.co/2oDTima35b"
+              },
+              {
+                "display_url": "api.68886868.xyz/register?aff=G…",
+                "end": 167,
+                "expanded_url": "https://api.68886868.xyz/register?aff=GAOO",
+                "start": 144,
+                "url": "https://t.co/IxW5oWmKuo"
+              },
+              {
+                "display_url": "api.fuka.win/register?aff=A…",
+                "end": 195,
+                "expanded_url": "https://api.fuka.win/register?aff=AJYG",
+                "start": 172,
+                "url": "https://t.co/J8IwvJ6ap6"
+              },
+              {
+                "display_url": "api.ebutterfly.cc/register?aff=n…",
+                "end": 224,
+                "expanded_url": "https://api.ebutterfly.cc/register?aff=nNNJ",
+                "start": 201,
+                "url": "https://t.co/CO87k2siSY"
+              },
+              {
+                "display_url": "az.zlapi.vip/register?aff=o…",
+                "end": 251,
+                "expanded_url": "https://az.zlapi.vip/register?aff=o6r3",
+                "start": 228,
+                "url": "https://t.co/UJp24bxLjW"
+              },
+              {
+                "display_url": "api.ekan8.com/register?aff=9…",
+                "end": 282,
+                "expanded_url": "https://api.ekan8.com/register?aff=9fAi",
+                "start": 259,
+                "url": "https://t.co/E4W0df4T01"
+              },
+              {
+                "display_url": "cc.cwapi.vip/register?aff=r…",
+                "end": 309,
+                "expanded_url": "https://cc.cwapi.vip/register?aff=roiD",
+                "start": 286,
+                "url": "https://t.co/NPGNk0To8Q"
+              },
+              {
+                "display_url": "api.dzzi.ai/register?aff=x…",
+                "end": 336,
+                "expanded_url": "https://api.dzzi.ai/register?aff=xUGv",
+                "start": 313,
+                "url": "https://t.co/rU5szCNmiG"
+              },
+              {
+                "display_url": "yxaiapp.com",
+                "end": 363,
+                "expanded_url": "https://www.yxaiapp.com",
+                "start": 340,
+                "url": "https://t.co/BDJmq8aDCG"
+              },
+              {
+                "display_url": "api.nianhua.store/register?aff=Z…",
+                "end": 390,
+                "expanded_url": "https://api.nianhua.store/register?aff=ZAPUMFHSWJQG",
+                "start": 367,
+                "url": "https://t.co/hrPXV8VOss"
+              },
+              {
+                "display_url": "openrouter.ai",
+                "end": 447,
+                "expanded_url": "https://openrouter.ai",
+                "start": 424,
+                "url": "https://t.co/M5AY2ovkVp"
+              },
+              {
+                "display_url": "aistudio.google.com",
+                "end": 481,
+                "expanded_url": "http://aistudio.google.com",
+                "start": 458,
+                "url": "https://t.co/fJqalJbVud"
+              },
+              {
+                "display_url": "console.groq.com",
+                "end": 550,
+                "expanded_url": "https://console.groq.com",
+                "start": 527,
+                "url": "https://t.co/aADpL5dUcb"
+              },
+              {
+                "display_url": "api.together.ai",
+                "end": 587,
+                "expanded_url": "https://api.together.ai",
+                "start": 564,
+                "url": "https://t.co/PeHMetdnPu"
+              },
+              {
+                "display_url": "fireworks.ai",
+                "end": 624,
+                "expanded_url": "https://fireworks.ai",
+                "start": 601,
+                "url": "https://t.co/IVuD7Koulw"
+              },
+              {
+                "display_url": "bailian.console.aliyun.com",
+                "end": 659,
+                "expanded_url": "https://bailian.console.aliyun.com",
+                "start": 636,
+                "url": "https://t.co/N5txx9d7sc"
+              },
+              {
+                "display_url": "bigmodel.cn",
+                "end": 688,
+                "expanded_url": "https://bigmodel.cn",
+                "start": 665,
+                "url": "https://t.co/zrUObqdL3U"
+              },
+              {
+                "display_url": "deepseek.com",
+                "end": 723,
+                "expanded_url": "https://deepseek.com",
+                "start": 700,
+                "url": "https://t.co/Y4nR7ZK0mf"
+              }
+            ]
+          },
+          "text": "我在囤积API站，已经变成兔兔仓鼠，让我分享……\n\n中转站\n（大概、也许、都有可能掺水/跑路/信息泄露）\nTree：https://t.co/VWZiIJmWpZ\n金瓜瓜：https://t.co/4khf1o9R0G\nMSUI：https://t.co/2oDTima35b\n小鸡农场：https://t.co/IxW5oWmKuo\n芙卡卡：https://t.co/J8IwvJ6ap6\n电子蝴蝶：https://t.co/CO87k2siSY\n宅恋：https://t.co/UJp24bxLjW\nEkan8: https://t.co/E4W0df4T01\n刺猬：https://t.co/NPGNk0To8Q\n肘子：https://t.co/rU5szCNmiG\n方舟：https://t.co/BDJmq8aDCG\n年华：https://t.co/hrPXV8VOss\n（xhs评论找的说是主要用来跑论文的🧐？）\n\n大型的中转站\nOR：https://t.co/M5AY2ovkVp\n\n免费/开源\n谷歌：https://t.co/fJqalJbVud\n（有外币卡的话可以试试Google Cloud Platform 这个羊毛）\n\nGroq：https://t.co/aADpL5dUcb\n\nTogether AI：https://t.co/PeHMetdnPu\nFireworks AI：https://t.co/IVuD7Koulw\n\n国模：\n\nQwen：https://t.co/N5txx9d7sc\n\nGLM：https://t.co/zrUObqdL3U\n\nDeepseek: https://t.co/Y4nR7ZK0mf"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 177,
+          "impression_count": 3445,
+          "like_count": 154,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "我在囤积API站，已经变成兔兔仓鼠，让我分享……\n\n中转站\n（大概、也许、都有可能掺水/跑路/信息泄露）\nTree：https://t.co/ogLpPCdXpg\n金瓜瓜：https://t.co/WhjLI5hyXR\nMSUI：https://t.co/qDDyN1PB5Q\n小鸡农场：https://t.co/3HsSiIZbc3\n芙卡卡：https://t.co/BxEwoXn83t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 188,
+          "like_count": 5582,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 1015
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T02:01:45.000Z",
+        "description": "我爱你",
+        "id": "1918123618611150848",
+        "location": "瓦纳海姆",
+        "name": "Bunny",
+        "pinned_tweet_id": "2054479193921208791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980847355826937857/mGWb3vSQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1457,
+          "following_count": 187,
+          "like_count": 19170,
+          "listed_count": 2,
+          "media_count": 347,
+          "tweet_count": 7231
+        },
+        "username": "Bunnyloustin",
+        "verified": true
+      }
+    ]
+  }
+}

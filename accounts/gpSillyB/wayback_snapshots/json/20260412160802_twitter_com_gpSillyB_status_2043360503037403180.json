@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2043360503037403180",
+    "created_at": "2026-04-12T16:08:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T17:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043360503037403180"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043360503037403180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想知道有用过丁螺环酮的嘛，这个药真的不是糖豆吗，怎么感觉吃了两个礼拜完全没感觉?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2043360503037403180",
+        "created_at": "2026-04-12T16:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T17:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043360503037403180"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043360503037403180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想知道有用过丁螺环酮的嘛，这个药真的不是糖豆吗，怎么感觉吃了两个礼拜完全没感觉?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 52,
+          "like_count": 580,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 194
+        },
+        "username": "gpSillyB",
+        "verified": false
+      }
+    ]
+  }
+}

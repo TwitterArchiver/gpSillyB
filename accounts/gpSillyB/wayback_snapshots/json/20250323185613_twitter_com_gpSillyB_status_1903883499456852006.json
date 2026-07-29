@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "1903883499456852006",
+    "created_at": "2025-03-23T18:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-23T19:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903883499456852006"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1903883499456852006",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "被口腔溃疡折磨的不行了……\n我要向世界推荐我的口腔溃疡三板斧了：\n复方苯佐卡因凝胶——既可以止痛还可以消炎，十分好用\n复方氯已定含漱液——口腔杀毒消菌\n复方庆大霉素膜——止痛消炎杀菌，就是因为是膜用起来比较麻烦……\n\n即便如此依然无法战胜可恶的溃疡……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "1903883499456852006",
+        "created_at": "2025-03-23T18:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-23T19:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903883499456852006"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1903883499456852006",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被口腔溃疡折磨的不行了……\n我要向世界推荐我的口腔溃疡三板斧了：\n复方苯佐卡因凝胶——既可以止痛还可以消炎，十分好用\n复方氯已定含漱液——口腔杀毒消菌\n复方庆大霉素膜——止痛消炎杀菌，就是因为是膜用起来比较麻烦……\n\n即便如此依然无法战胜可恶的溃疡……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "薛志成",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 23,
+          "like_count": 54,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 22
+        },
+        "username": "gpSillyB",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2053475335602405465",
+    "created_at": "2026-05-10T14:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T15:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053476148580110807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1467340813763964931",
+          "start": 0,
+          "username": "Orangefish0902"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053476148580110807",
+    "in_reply_to_user_id": "1467340813763964931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053475860771205203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Orangefish0902 吓哭了😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2053475335602405465",
+        "created_at": "2026-05-10T14:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053476148580110807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1467340813763964931",
+              "start": 0,
+              "username": "Orangefish0902"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053476148580110807",
+        "in_reply_to_user_id": "1467340813763964931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053475860771205203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orangefish0902 吓哭了😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467340813763964931",
+        "conversation_id": "2053475335602405465",
+        "created_at": "2026-05-10T14:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053475860771205203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1682793693630304260",
+              "start": 0,
+              "username": "gpSillyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053475860771205203",
+        "in_reply_to_user_id": "1682793693630304260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053475335602405465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gpSillyB 好诡异"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 152,
+          "like_count": 3974,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 864
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T03:51:38.000Z",
+        "description": "还是希望不要被熟人发现好了\n健全的时候：@Of090902\n♪──────────♪ ⚠️完全吐黑泥自high的帐号没有!!💊trip相关🚨🚨‼️_(´ཀ`」 ∠)_🫧🫧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "Of090902"
+              }
+            ]
+          }
+        },
+        "id": "1467340813763964931",
+        "location": "🛏️💤",
+        "name": "別に🍧",
+        "pinned_tweet_id": "1996564240841453654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857367371725623296/o_7kVQxN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 384,
+          "like_count": 14191,
+          "listed_count": 3,
+          "media_count": 88,
+          "tweet_count": 3684
+        },
+        "username": "Orangefish0902",
+        "verified": false
+      }
+    ]
+  }
+}

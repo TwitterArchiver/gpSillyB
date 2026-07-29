@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2047651913924252038",
+    "created_at": "2026-04-24T22:31:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T23:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047805731190239484"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1814688236398166016",
+          "start": 0,
+          "username": "love727luv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047805731190239484",
+    "in_reply_to_user_id": "1814688236398166016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047651913924252038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@love727luv 我要准备100个梯子备用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2047651913924252038",
+        "created_at": "2026-04-24T22:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T23:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047805731190239484"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814688236398166016",
+              "start": 0,
+              "username": "love727luv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047805731190239484",
+        "in_reply_to_user_id": "1814688236398166016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047651913924252038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@love727luv 我要准备100个梯子备用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814688236398166016",
+        "conversation_id": "2047651913924252038",
+        "created_at": "2026-04-24T12:20:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:20:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047651913924252038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DRbitcoin36/st…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/DRbitcoin36/status/2047618286607802695",
+              "start": 77,
+              "url": "https://t.co/U1e6HpNUQO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047651913924252038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 89,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047618286607802695",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "梯子崩了，现在能上 X 的都是神人了。未来几年内，刷 X 的含金量会大大提升。\n\n在这边的群体，都是人中吕布，以后必成大器，超越墙内 99.9% 人群。 https://t.co/U1e6HpNUQO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 112,
+          "like_count": 2158,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 526
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T15:46:15.000Z",
+        "description": "男｜175cm｜55kg｜学生｜adhd｜双相情感障碍｜精神分裂症｜社交恐惧症｜抑郁症｜焦虑症｜生活灰暗｜爱好健身和音乐  正在努力规划未来",
+        "id": "1814688236398166016",
+        "name": "x_x",
+        "pinned_tweet_id": "2047756016486670554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047348345560350721/8tVcEm6h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 411,
+          "like_count": 1520,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 261
+        },
+        "username": "love727luv",
+        "verified": false
+      }
+    ]
+  }
+}

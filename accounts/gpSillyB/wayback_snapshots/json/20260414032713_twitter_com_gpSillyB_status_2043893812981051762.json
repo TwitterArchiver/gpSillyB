@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043893810372194305"
+      ]
+    },
+    "author_id": "1682793693630304260",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2043893812981051762",
+    "created_at": "2026-04-14T03:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T04:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043893812981051762"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dJurVjvjrK",
+          "end": 65,
+          "expanded_url": "https://x.com/gpSillyB/status/2043893812981051762/photo/1",
+          "media_key": "3_2043893810372194305",
+          "start": 42,
+          "url": "https://t.co/dJurVjvjrK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043893812981051762",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "依旧维持生命餐，吃了四天了偶尔会头晕💫?可是碳水蛋白质脂肪不都摄入了吗怎么还会这样 https://t.co/dJurVjvjrK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2043893810372194305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF1el23asAESDCd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043893810372194305"
+          ]
+        },
+        "author_id": "1682793693630304260",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2043893812981051762",
+        "created_at": "2026-04-14T03:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T04:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043893812981051762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dJurVjvjrK",
+              "end": 65,
+              "expanded_url": "https://x.com/gpSillyB/status/2043893812981051762/photo/1",
+              "media_key": "3_2043893810372194305",
+              "start": 42,
+              "url": "https://t.co/dJurVjvjrK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043893812981051762",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "依旧维持生命餐，吃了四天了偶尔会头晕💫?可是碳水蛋白质脂肪不都摄入了吗怎么还会这样 https://t.co/dJurVjvjrK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 61,
+          "like_count": 731,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 239
+        },
+        "username": "gpSillyB",
+        "verified": false
+      }
+    ]
+  }
+}

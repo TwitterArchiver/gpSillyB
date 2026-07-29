@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081778908266176512"
+      ]
+    },
+    "author_id": "1682793693630304260",
+    "conversation_id": "2081778922824601670",
+    "created_at": "2026-07-27T16:29:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T17:29:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081778922824601670"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UVEgYuUVzT",
+          "end": 49,
+          "expanded_url": "https://x.com/gpSillyB/status/2081778922824601670/photo/1",
+          "media_key": "3_2081778908266176512",
+          "start": 26,
+          "url": "https://t.co/UVEgYuUVzT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081778922824601670",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "第一句话我反复观看，以为自己理解产生问题了😰😰😰😰 https://t.co/UVEgYuUVzT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2412,
+        "media_key": "3_2081778908266176512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOP24ygbIAAZFx-.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081778908266176512"
+          ]
+        },
+        "author_id": "1682793693630304260",
+        "conversation_id": "2081778922824601670",
+        "created_at": "2026-07-27T16:29:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:29:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081778922824601670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UVEgYuUVzT",
+              "end": 49,
+              "expanded_url": "https://x.com/gpSillyB/status/2081778922824601670/photo/1",
+              "media_key": "3_2081778908266176512",
+              "start": 26,
+              "url": "https://t.co/UVEgYuUVzT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081778922824601670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一句话我反复观看，以为自己理解产生问题了😰😰😰😰 https://t.co/UVEgYuUVzT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 197,
+          "like_count": 6282,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1132
+        },
+        "url": "",
+        "username": "gpSillyB",
+        "verified": false
+      }
+    ]
+  }
+}

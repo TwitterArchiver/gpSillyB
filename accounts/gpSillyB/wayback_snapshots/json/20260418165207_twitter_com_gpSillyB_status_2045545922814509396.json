@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2045542993810313490",
+    "created_at": "2026-04-18T16:52:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T17:52:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045545922814509396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1809776727952093187",
+          "start": 0,
+          "username": "momuzi20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045545922814509396",
+    "in_reply_to_user_id": "1809776727952093187",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045542993810313490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momuzi20 😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2045542979881099264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGM6gKCbYAAqrwc.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2045542993810313490",
+        "created_at": "2026-04-18T16:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T17:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045545922814509396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1809776727952093187",
+              "start": 0,
+              "username": "momuzi20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045545922814509396",
+        "in_reply_to_user_id": "1809776727952093187",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045542993810313490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momuzi20 😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045542979881099264"
+          ]
+        },
+        "author_id": "1809776727952093187",
+        "conversation_id": "2045542993810313490",
+        "created_at": "2026-04-18T16:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T17:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045542993810313490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ey5IU8FtCd",
+              "end": 47,
+              "expanded_url": "https://x.com/momuzi20/status/2045542993810313490/photo/1",
+              "media_key": "3_2045542979881099264",
+              "start": 24,
+              "url": "https://t.co/Ey5IU8FtCd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045542993810313490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈呀，又冲流血了…（不是姨妈。）再也不玩炮机了 https://t.co/Ey5IU8FtCd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 91,
+          "like_count": 1259,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 378
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T02:30:23.000Z",
+        "description": "🏳️‍⚧️超敏感地雷NPD非量产/发泄现生想鼠纯负能量号/约4⃣️+++/不是约炮，约炮的滚",
+        "id": "1809776727952093187",
+        "location": "Sydney, New South Wales",
+        "name": "🏳️‍⚧️momuzi/CN紫莎+",
+        "pinned_tweet_id": "2043604242511040806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012652698500268032/gefwIlEw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 97,
+          "like_count": 882,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 267
+        },
+        "username": "momuzi20",
+        "verified": false
+      }
+    ]
+  }
+}

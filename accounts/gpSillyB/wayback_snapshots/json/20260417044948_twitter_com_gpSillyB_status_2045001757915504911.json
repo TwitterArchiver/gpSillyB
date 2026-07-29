@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2044951505812562193",
+    "created_at": "2026-04-17T04:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T05:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045001757915504911"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1997511338453876736",
+          "start": 0,
+          "username": "kasemarin1219"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045001757915504911",
+    "in_reply_to_user_id": "1997511338453876736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044951505812562193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kasemarin1219 法!我一直在哭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2044951505812562193",
+        "created_at": "2026-04-17T04:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T05:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045001757915504911"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997511338453876736",
+              "start": 0,
+              "username": "kasemarin1219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045001757915504911",
+        "in_reply_to_user_id": "1997511338453876736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044951505812562193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kasemarin1219 法!我一直在哭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997511338453876736",
+        "conversation_id": "2044951505812562193",
+        "created_at": "2026-04-17T01:30:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T02:30:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044951505812562193"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044951505812562193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要再私信给我发逼照了我没有屌\n也不要给我发屌照了我没有逼\n我不是男的不是女的我已经被开除了男籍女籍现在跳出三界之外不在五行之中我的性别为婵我的性别为吉他张我的性别为一滴泪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 87,
+          "like_count": 1091,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 344
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T03:40:04.000Z",
+        "description": "ISFP 负能 不od对药有心理阴影  偶尔自残发疯这样  其余时候很正常  不会对你恶语相向",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kasemarin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kasemarin",
+                "start": 0,
+                "url": "https://t.co/EWnTz4Y1cl"
+              }
+            ]
+          }
+        },
+        "id": "1997511338453876736",
+        "location": "苦瓜国",
+        "name": "小殇（互fo私）",
+        "pinned_tweet_id": "2044249788015874401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044756604940419072/65qaA5JJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 28,
+          "like_count": 1176,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 559
+        },
+        "url": "https://t.co/EWnTz4Y1cl",
+        "username": "kasemarin1219",
+        "verified": false
+      }
+    ]
+  }
+}

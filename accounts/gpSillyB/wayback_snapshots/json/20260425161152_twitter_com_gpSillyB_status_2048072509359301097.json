@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2048070255592042647",
+    "created_at": "2026-04-25T16:11:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T17:11:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048072509359301097"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1814688236398166016",
+          "start": 0,
+          "username": "love727luv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048072509359301097",
+    "in_reply_to_user_id": "1814688236398166016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048071443213426825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@love727luv 那我看下一步就是要戒可乐。等等，无糖可乐😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2048070255592042647",
+        "created_at": "2026-04-25T16:11:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:11:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048072509359301097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814688236398166016",
+              "start": 0,
+              "username": "love727luv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048072509359301097",
+        "in_reply_to_user_id": "1814688236398166016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048071443213426825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@love727luv 那我看下一步就是要戒可乐。等等，无糖可乐😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814688236398166016",
+        "conversation_id": "2048070255592042647",
+        "created_at": "2026-04-25T16:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048071443213426825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1682793693630304260",
+              "start": 0,
+              "username": "gpSillyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048071443213426825",
+        "in_reply_to_user_id": "1682793693630304260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048070776495239267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gpSillyB 给我足够的无糖可乐我就可以戒😌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 112,
+          "like_count": 2239,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 544
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T15:46:15.000Z",
+        "description": "男｜透明人｜开心发推 生气发推 伤心发推 无聊发推 情绪化发推 这个世界很美好:P",
+        "id": "1814688236398166016",
+        "name": "x_x",
+        "pinned_tweet_id": "2047756016486670554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047348345560350721/8tVcEm6h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 432,
+          "like_count": 1589,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 272
+        },
+        "username": "love727luv",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2044351524244246988",
+    "created_at": "2026-04-15T09:48:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T10:48:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044352178249498768"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044352178249498768",
+    "in_reply_to_user_id": "1682793693630304260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044351524244246988",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "像做长线一样对待自己：不因为短期波动推翻自己!\n但是人生远比股市复杂吧?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2044351524244246988",
+        "created_at": "2026-04-15T09:48:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T10:48:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044352178249498768"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044352178249498768",
+        "in_reply_to_user_id": "1682793693630304260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044351524244246988",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "像做长线一样对待自己：不因为短期波动推翻自己!\n但是人生远比股市复杂吧?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2044351524244246988",
+        "created_at": "2026-04-15T09:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T10:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044351524244246988"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044351524244246988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我怎么不被情绪影响，在绝对理智的情况下决定自己的生死呢?\n但是我想到要做这个决定就会有情绪啊不管什么时候!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 75,
+          "like_count": 918,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 285
+        },
+        "username": "gpSillyB",
+        "verified": false
+      }
+    ]
+  }
+}

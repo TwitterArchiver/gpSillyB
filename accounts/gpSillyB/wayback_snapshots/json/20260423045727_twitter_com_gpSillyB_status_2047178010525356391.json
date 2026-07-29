@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2047171832328179815",
+    "created_at": "2026-04-23T04:57:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T05:57:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047178010525356391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2039298306309062657",
+          "start": 0,
+          "username": "Yunofd6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047178010525356391",
+    "in_reply_to_user_id": "2039298306309062657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047171832328179815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yunofd6 亚米😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047171826116345856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGkD7fHaQAApjPF.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2047171832328179815",
+        "created_at": "2026-04-23T04:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T05:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047178010525356391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2039298306309062657",
+              "start": 0,
+              "username": "Yunofd6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047178010525356391",
+        "in_reply_to_user_id": "2039298306309062657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047171832328179815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yunofd6 亚米😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047171826116345856"
+          ]
+        },
+        "author_id": "2039298306309062657",
+        "conversation_id": "2047171832328179815",
+        "created_at": "2026-04-23T04:32:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T05:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047171832328179815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "A wide selection of groceries, snacks, beauty, and home goods from China, Korea, Japan, Taiwan, HK, Macau, and other Asian regions. Free shipping with orders $49+.",
+              "display_url": "yami.com",
+              "end": 31,
+              "expanded_url": "http://yami.com",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2047171875386875904/-RvhTm1p?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2047171875386875904/-RvhTm1p?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 8,
+              "status": 200,
+              "title": "Yami. Best of Asia, delivered.",
+              "unwound_url": "https://www.yami.com/en",
+              "url": "https://t.co/u0eWWdw26i"
+            },
+            {
+              "display_url": "pic.x.com/ccZpUH3vv1",
+              "end": 63,
+              "expanded_url": "https://x.com/Yunofd6/status/2047171832328179815/photo/1",
+              "media_key": "3_2047171826116345856",
+              "start": 40,
+              "url": "https://t.co/ccZpUH3vv1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047171832328179815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "愈美片购买链接：https://t.co/u0eWWdw26i\n我操我们有救了 https://t.co/ccZpUH3vv1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 111,
+          "like_count": 1985,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 488
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-01T11:07:45.000Z",
+        "description": "11年｜od｜自伤｜双向｜LGBT友好\n欢迎同类互fo喵",
+        "id": "2039298306309062657",
+        "name": "yun",
+        "pinned_tweet_id": "2047057021200122299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042709057333809152/gOtr5skA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 40,
+          "like_count": 514,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 69
+        },
+        "username": "Yunofd6",
+        "verified": false
+      }
+    ]
+  }
+}

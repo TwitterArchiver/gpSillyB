@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2044469415828459767",
+    "created_at": "2026-04-19T20:14:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T21:14:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045959205694443786"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045959205694443786",
+    "in_reply_to_user_id": "1682793693630304260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044469415828459767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "2026/4/19\n情绪：5\n行动力：5\n脑子状态：5\n今天感觉没什么好像一直平平的，是因为托莫西汀的副作用吗？今天几乎什么都没干……好像没什么好写的了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2044469415828459767",
+        "created_at": "2026-04-19T20:14:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T21:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045959205694443786"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045959205694443786",
+        "in_reply_to_user_id": "1682793693630304260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044469415828459767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2026/4/19\n情绪：5\n行动力：5\n脑子状态：5\n今天感觉没什么好像一直平平的，是因为托莫西汀的副作用吗？今天几乎什么都没干……好像没什么好写的了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2044469415828459767",
+        "created_at": "2026-04-15T17:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T18:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044469415828459767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044469415828459767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 260,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打算每天观察记录一下自己的情绪和状态。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 95,
+          "like_count": 1353,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 396
+        },
+        "username": "gpSillyB",
+        "verified": false
+      }
+    ]
+  }
+}

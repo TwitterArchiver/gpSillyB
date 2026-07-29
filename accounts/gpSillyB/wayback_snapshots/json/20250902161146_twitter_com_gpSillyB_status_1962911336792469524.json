@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "1962911054088069440",
+    "created_at": "2025-09-02T16:11:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T17:11:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962911336792469524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1914102171190345728",
+          "start": 0,
+          "username": "_4jrilfk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962911336792469524",
+    "in_reply_to_user_id": "1914102171190345728",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962911200049795268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_4jrilfk 9/2 😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "1962911054088069440",
+        "created_at": "2025-09-02T16:11:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T17:11:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962911336792469524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1914102171190345728",
+              "start": 0,
+              "username": "_4jrilfk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962911336792469524",
+        "in_reply_to_user_id": "1914102171190345728",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962911200049795268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_4jrilfk 9/2 😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914102171190345728",
+        "conversation_id": "1962911054088069440",
+        "created_at": "2025-09-02T16:11:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T17:11:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962911200049795268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1682793693630304260",
+              "start": 0,
+              "username": "gpSillyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962911200049795268",
+        "in_reply_to_user_id": "1682793693630304260",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962911054088069440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gpSillyB 誕生日いつ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 39,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 69
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T23:41:50.000Z",
+        "description": "11 鍵@4filq_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 4,
+                "username": "4filq_"
+              }
+            ]
+          }
+        },
+        "id": "1914102171190345728",
+        "name": "お姫様にはなれない",
+        "pinned_tweet_id": "1918630042596213231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955438401089572864/aBY6VeE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 99,
+          "like_count": 1902,
+          "listed_count": 6,
+          "media_count": 32,
+          "tweet_count": 748
+        },
+        "username": "_4jrilfk",
+        "verified": false
+      }
+    ]
+  }
+}

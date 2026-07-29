@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2046166285449617716",
+    "created_at": "2026-04-20T09:57:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T10:57:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046166285449617716"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2046166285449617716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想慢慢走，可是社会容不下这个节奏啊😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2046166285449617716",
+        "created_at": "2026-04-20T09:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T10:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046166285449617716"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046166285449617716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想慢慢走，可是社会容不下这个节奏啊😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 101,
+          "like_count": 1457,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 410
+        },
+        "username": "gpSillyB",
+        "verified": false
+      }
+    ]
+  }
+}

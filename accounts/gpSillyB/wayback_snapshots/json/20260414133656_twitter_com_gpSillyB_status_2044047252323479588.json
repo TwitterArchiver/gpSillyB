@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2044033020592828798",
+    "created_at": "2026-04-14T13:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T14:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044047252323479588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1811120956859179008",
+          "start": 0,
+          "username": "GuGuQ3Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044047252323479588",
+    "in_reply_to_user_id": "1811120956859179008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044045532897915111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GuGuQ3Q 非常之绝望啊，对推特男女比例产生严重怀疑了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2044033020592828798",
+        "created_at": "2026-04-14T13:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044047252323479588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1811120956859179008",
+              "start": 0,
+              "username": "GuGuQ3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044047252323479588",
+        "in_reply_to_user_id": "1811120956859179008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044045532897915111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GuGuQ3Q 非常之绝望啊，对推特男女比例产生严重怀疑了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811120956859179008",
+        "conversation_id": "2044033020592828798",
+        "created_at": "2026-04-14T13:30:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:30:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044045532897915111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1682793693630304260",
+              "start": 0,
+              "username": "gpSillyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044045532897915111",
+        "in_reply_to_user_id": "1682793693630304260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044033020592828798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gpSillyB 不标明性别打开私信发现自己鹤立“鸡”群了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 72,
+          "like_count": 841,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 266
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-10T19:31:06.000Z",
+        "description": "可可爱爱，没有脑袋",
+        "id": "1811120956859179008",
+        "name": "咕咕🐦",
+        "pinned_tweet_id": "1861471889362985458",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867154791337730048/mb8TKx_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 163,
+          "like_count": 810,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 19
+        },
+        "username": "GuGuQ3Q",
+        "verified": false
+      }
+    ]
+  }
+}

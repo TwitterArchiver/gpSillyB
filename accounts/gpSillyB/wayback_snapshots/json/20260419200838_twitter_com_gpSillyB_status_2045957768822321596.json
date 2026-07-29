@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2045728235959488633",
+    "created_at": "2026-04-19T20:08:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T21:08:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045957768822321596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1723559131846705152",
+          "start": 0,
+          "username": "cabrero_na66160"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045957768822321596",
+    "in_reply_to_user_id": "1723559131846705152",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045897252888293658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cabrero_na66160 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2045728235959488633",
+        "created_at": "2026-04-19T20:08:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T21:08:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045957768822321596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1723559131846705152",
+              "start": 0,
+              "username": "cabrero_na66160"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045957768822321596",
+        "in_reply_to_user_id": "1723559131846705152",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045897252888293658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cabrero_na66160 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723559131846705152",
+        "conversation_id": "2045728235959488633",
+        "created_at": "2026-04-19T16:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T17:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045897252888293658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1682793693630304260",
+              "start": 0,
+              "username": "gpSillyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045897252888293658",
+        "in_reply_to_user_id": "1682793693630304260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045867129053024740",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gpSillyB 啊 不哭不哭 没有普瑞我们的朋友不会消失的 他们会来找我们的好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 95,
+          "like_count": 1349,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 394
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T04:31:45.000Z",
+        "description": "夏色祭单推人||oder||lgbt全友好||不建政不搞黄 一个人在那幻想||出道预备？\n//我是小貘，一只食梦貘\n让我吃掉你的噩梦，给你一个香香软软的美梦～",
+        "id": "1723559131846705152",
+        "name": "小貘妥妥的🏮🏮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911606973637828608/rg1-sH-1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 671,
+          "like_count": 13119,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1273
+        },
+        "username": "cabrero_na66160",
+        "verified": false
+      }
+    ]
+  }
+}

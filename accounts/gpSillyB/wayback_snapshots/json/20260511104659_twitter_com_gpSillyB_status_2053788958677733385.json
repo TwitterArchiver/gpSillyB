@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2053784334872789500",
+    "created_at": "2026-05-11T10:46:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T11:46:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053788958677733385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1997511338453876736",
+          "start": 0,
+          "username": "kasemarin1219"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053788958677733385",
+    "in_reply_to_user_id": "1997511338453876736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053784334872789500",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kasemarin1219 我已抛弃gpt准备拥抱claude了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2053784332477833216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICB-A6aoAA7pS3.jpg",
+        "width": 720
+      },
+      {
+        "height": 1604,
+        "media_key": "3_2053784332431704065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HICB-AvawAE46GS.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2053784334872789500",
+        "created_at": "2026-05-11T10:46:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:46:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053788958677733385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997511338453876736",
+              "start": 0,
+              "username": "kasemarin1219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053788958677733385",
+        "in_reply_to_user_id": "1997511338453876736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053784334872789500",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kasemarin1219 我已抛弃gpt准备拥抱claude了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053784332477833216",
+            "3_2053784332431704065"
+          ]
+        },
+        "author_id": "1997511338453876736",
+        "conversation_id": "2053784334872789500",
+        "created_at": "2026-05-11T10:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T11:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053784334872789500"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SGcnM427jU",
+              "end": 31,
+              "expanded_url": "https://x.com/kasemarin1219/status/2053784334872789500/photo/1",
+              "media_key": "3_2053784332477833216",
+              "start": 8,
+              "url": "https://t.co/SGcnM427jU"
+            },
+            {
+              "display_url": "pic.x.com/SGcnM427jU",
+              "end": 31,
+              "expanded_url": "https://x.com/kasemarin1219/status/2053784334872789500/photo/1",
+              "media_key": "3_2053784332431704065",
+              "start": 8,
+              "url": "https://t.co/SGcnM427jU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053784334872789500",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "萌的我想亲死它 https://t.co/SGcnM427jU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 160,
+          "like_count": 4081,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 882
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T03:40:04.000Z",
+        "description": "ISFP 正负参半 不od对药有心理阴影 喜欢割腿催吐制造美丽淤青 想和美萌蕾蕾们成为好朋友~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kasemarin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kasemarin",
+                "start": 0,
+                "url": "https://t.co/EWnTz4Y1cl"
+              }
+            ]
+          }
+        },
+        "id": "1997511338453876736",
+        "location": "离开这里",
+        "name": "小殇",
+        "pinned_tweet_id": "2053467364390547456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044756604940419072/65qaA5JJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 27,
+          "like_count": 1457,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 739
+        },
+        "url": "https://t.co/EWnTz4Y1cl",
+        "username": "kasemarin1219",
+        "verified": false
+      }
+    ]
+  }
+}

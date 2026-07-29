@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "1945489283319521302",
+    "created_at": "2025-07-16T14:43:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T15:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945494620143755293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1893857124889055232",
+          "start": 0,
+          "username": "gefnyTu1fz59899"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945494620143755293",
+    "in_reply_to_user_id": "1893857124889055232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945489283319521302",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gefnyTu1fz59899 どうしてこんなに遅いの、本当に嫌だ…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "1945489283319521302",
+        "created_at": "2025-07-16T14:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T15:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945494620143755293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1893857124889055232",
+              "start": 0,
+              "username": "gefnyTu1fz59899"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945494620143755293",
+        "in_reply_to_user_id": "1893857124889055232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945489283319521302",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gefnyTu1fz59899 どうしてこんなに遅いの、本当に嫌だ…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893857124889055232",
+        "conversation_id": "1945489283319521302",
+        "created_at": "2025-07-16T14:22:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T15:22:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945489283319521302"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945489283319521302",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私の学校は自称進なので、金曜日に終業式ですが7月いっぱいは学校です^^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 40,
+          "like_count": 123,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 47
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-24T02:55:20.000Z",
+        "description": "鍵@UmxXqjLzWa49225",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "UmxXqjLzWa49225"
+              }
+            ]
+          }
+        },
+        "id": "1893857124889055232",
+        "location": "クソ田舎",
+        "name": "あめ",
+        "pinned_tweet_id": "1937518351368224895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929133652337926145/znlnXmw2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 176,
+          "like_count": 25748,
+          "listed_count": 8,
+          "media_count": 82,
+          "tweet_count": 2330
+        },
+        "username": "gefnyTu1fz59899",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2044469415828459767",
+    "created_at": "2026-04-22T18:43:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T19:43:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047023600063148040"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2047023600063148040",
+    "in_reply_to_user_id": "1682793693630304260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "2026/4/22\n情绪：7\n行动力：6\n脑子状态：5\n白天刚起床感觉一般般，但是中午突发奇想进行了一波刺激的交易，然后小赚了一手，我知道着不叫投资，应该叫赌博，虽然我很高兴但是我不会再碰了。下午喝了一大瓶茶后感觉兴致很高，成功去上了一节课，虽然还是控制不住焦虑和害怕，但是别的方面感觉比昨天好多了。哦对晚上认识了新的网友，这也让我很高兴!"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044469415828459767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "2026/4/22\n情绪：7\n行动力：6\n脑子状态：5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2044469415828459767",
+        "created_at": "2026-04-22T18:43:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T19:43:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047023600063148040"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047023600063148040",
+        "in_reply_to_user_id": "1682793693630304260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "2026/4/22\n情绪：7\n行动力：6\n脑子状态：5\n白天刚起床感觉一般般，但是中午突发奇想进行了一波刺激的交易，然后小赚了一手，我知道着不叫投资，应该叫赌博，虽然我很高兴但是我不会再碰了。下午喝了一大瓶茶后感觉兴致很高，成功去上了一节课，虽然还是控制不住焦虑和害怕，但是别的方面感觉比昨天好多了。哦对晚上认识了新的网友，这也让我很高兴!"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044469415828459767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2026/4/22\n情绪：7\n行动力：6\n脑子状态：5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2044469415828459767",
+        "created_at": "2026-04-15T17:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T18:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044469415828459767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044469415828459767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 437,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打算每天观察记录一下自己的情绪和状态。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 112,
+          "like_count": 1948,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 486
+        },
+        "username": "gpSillyB",
+        "verified": false
+      }
+    ]
+  }
+}

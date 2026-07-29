@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2044469415828459767",
+    "created_at": "2026-05-28T20:23:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T21:23:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060094508948488256"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2060094508948488256",
+    "in_reply_to_user_id": "1682793693630304260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044469415828459767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "简单收个尾吧，我感觉以后不会写了。好像无法想象之前的心里想的啥?很奇怪的感觉。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2044469415828459767",
+        "created_at": "2026-05-28T20:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T21:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060094508948488256"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060094508948488256",
+        "in_reply_to_user_id": "1682793693630304260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044469415828459767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "简单收个尾吧，我感觉以后不会写了。好像无法想象之前的心里想的啥?很奇怪的感觉。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2044469415828459767",
+        "created_at": "2026-04-15T17:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T18:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044469415828459767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044469415828459767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1520,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打算每天观察记录一下自己的情绪和状态。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 190,
+          "like_count": 5335,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 995
+        },
+        "username": "gpSillyB",
+        "verified": false
+      }
+    ]
+  }
+}

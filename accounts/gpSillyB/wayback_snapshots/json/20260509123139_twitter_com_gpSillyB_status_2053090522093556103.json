@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2053083940014240147",
+    "created_at": "2026-05-09T12:31:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T13:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053090522093556103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1519649212736049152",
+          "start": 0,
+          "username": "Mark67358226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053090522093556103",
+    "in_reply_to_user_id": "1519649212736049152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053083940014240147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mark67358226 强！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12966,
+        "height": 720,
+        "media_key": "7_2053083911497105409",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2053083911497105409/pu/img/zsEpXe4kcHnQUg0x.jpg",
+        "public_metrics": {
+          "view_count": 39
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053083911497105409/pu/vid/avc1/480x270/ypjsqKfUk0qy57H6.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053083911497105409/pu/vid/avc1/640x360/CHwlSL_J6QDYDxbe.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2053083911497105409/pu/vid/avc1/1280x720/Ru0gOluAbzz2HX7Z.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2053083911497105409/pu/pl/rGnkGKzfeBrdnUWB.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2053083940014240147",
+        "created_at": "2026-05-09T12:31:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053090522093556103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1519649212736049152",
+              "start": 0,
+              "username": "Mark67358226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053090522093556103",
+        "in_reply_to_user_id": "1519649212736049152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053083940014240147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mark67358226 强！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2053083911497105409"
+          ]
+        },
+        "author_id": "1519649212736049152",
+        "conversation_id": "2053083940014240147",
+        "created_at": "2026-05-09T12:05:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:05:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053083940014240147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vGl2ZmRm6Q",
+              "end": 75,
+              "expanded_url": "https://x.com/Mark67358226/status/2053083940014240147/video/1",
+              "media_key": "7_2053083911497105409",
+              "start": 52,
+              "url": "https://t.co/vGl2ZmRm6Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053083940014240147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "240fo了，之前答應好的漏個面，當面感謝列位諸公😋！還想看我整什麼可以儘管提！\n（說實話超級緊張的） https://t.co/vGl2ZmRm6Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 148,
+          "like_count": 3710,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 817
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 57kg | 北京昌平🇨🇳 | 主要繁體 簡體🉑 | 是男孩子 |日語🇯🇵 朝鮮語🇰🇷也會一點 | 性取向雙 | 友跨+LGBT友好 | 留長髮中 | 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！（求你們私信找我聊天吧！）",
+        "id": "1519649212736049152",
+        "location": "北京市昌平區",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2049133758931161088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 411,
+          "like_count": 3389,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1082
+        },
+        "username": "Mark67358226",
+        "verified": false
+      }
+    ]
+  }
+}

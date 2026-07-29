@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2071265342706647098",
+    "created_at": "2026-06-28T16:14:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T17:14:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071265990676242718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1467340813763964931",
+          "start": 0,
+          "username": "Orangefish0902"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071265990676242718",
+    "in_reply_to_user_id": "1467340813763964931",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071265342706647098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Orangefish0902 😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2071265342706647098",
+        "created_at": "2026-06-28T16:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071265990676242718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1467340813763964931",
+              "start": 0,
+              "username": "Orangefish0902"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071265990676242718",
+        "in_reply_to_user_id": "1467340813763964931",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071265342706647098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Orangefish0902 😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1467340813763964931",
+        "conversation_id": "2071265342706647098",
+        "created_at": "2026-06-28T16:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T17:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071265342706647098"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071265342706647098",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "妈的你烦不烦啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 186,
+          "like_count": 5856,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 1084
+        },
+        "url": "",
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-05T03:51:38.000Z",
+        "description": "每天都活的好懵逼\n♪──────────♪ \n_(´ཀ`」 ∠)_🫧🫧",
+        "id": "1467340813763964931",
+        "location": "🛏️💤",
+        "name": "別に🧠",
+        "pinned_tweet_id": "1996564240841453654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1857367371725623296/o_7kVQxN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 376,
+          "like_count": 14334,
+          "listed_count": 3,
+          "media_count": 85,
+          "tweet_count": 3739
+        },
+        "url": "",
+        "username": "Orangefish0902",
+        "verified": false
+      }
+    ]
+  }
+}

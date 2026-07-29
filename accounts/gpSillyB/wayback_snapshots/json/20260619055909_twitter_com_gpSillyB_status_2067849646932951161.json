@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2067843697958604817",
+    "created_at": "2026-06-19T05:59:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T06:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067849646932951161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2058924635547402243",
+          "start": 0,
+          "username": "kasemarin520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067849646932951161",
+    "in_reply_to_user_id": "2058924635547402243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067843697958604817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kasemarin520 真的无奈……"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12967,
+        "height": 1278,
+        "media_key": "7_2067843659115216896",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2067843659115216896/pu/img/5bh9jo67QEHmTr8o.jpg",
+        "public_metrics": {
+          "view_count": 13
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067843659115216896/pu/vid/avc1/320x712/iZMIg_FUnox-lOdt.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067843659115216896/pu/vid/avc1/480x1068/P9lG8opzQuDeM7oK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2067843659115216896/pu/vid/avc1/574x1278/1A-H-2XuOqT-bGvr.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2067843659115216896/pu/pl/gZvM1DUXLrld2xO9.m3u8?tag=12"
+          }
+        ],
+        "width": 574
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2067843697958604817",
+        "created_at": "2026-06-19T05:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067849646932951161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2058924635547402243",
+              "start": 0,
+              "username": "kasemarin520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067849646932951161",
+        "in_reply_to_user_id": "2058924635547402243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067843697958604817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kasemarin520 真的无奈……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2067843659115216896"
+          ]
+        },
+        "author_id": "2058924635547402243",
+        "conversation_id": "2067843697958604817",
+        "created_at": "2026-06-19T05:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067843697958604817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RAyl1E7vUx",
+              "end": 54,
+              "expanded_url": "https://x.com/kasemarin520/status/2067843697958604817/video/1",
+              "media_key": "7_2067843659115216896",
+              "start": 31,
+              "url": "https://t.co/RAyl1E7vUx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067843697958604817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有一个人一直在给我点赞，但是我又看不到ta到底是谁，哎好无奈 https://t.co/RAyl1E7vUx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 189,
+          "like_count": 5724,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 1061
+        },
+        "url": "",
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-25T14:55:29.000Z",
+        "description": "08 ISFP 无聊的留学生 自伤/bpd 叫我小殇\n匿名箱https://t.co/ut4i56f9mf\n欧尼酱 @elkvika 恋人@minako8964 老婆@boqiaoahm4\n 互fo请私信 有时候看不到 查成分回fo 成分不过关会取 健全人只fo女孩子男的滚一股顺直味恶心死了去死去死去死",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 58,
+                "username": "elkvika"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "minako8964"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "boqiaoahm4"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kasemarin",
+                "end": 53,
+                "expanded_url": "https://ngl.link/kasemarin",
+                "start": 30,
+                "url": "https://t.co/ut4i56f9mf"
+              }
+            ]
+          }
+        },
+        "id": "2058924635547402243",
+        "location": "死死死",
+        "name": "用户1219（互fo私）",
+        "pinned_tweet_id": "2064694234670928276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060345615574618114/FMDvngb2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 36,
+          "like_count": 2782,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1183
+        },
+        "url": "",
+        "username": "kasemarin520",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2050514907838419319",
+    "created_at": "2026-05-02T10:39:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T11:39:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050525523705819610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "722786741547982848",
+          "start": 0,
+          "username": "Jewel_Penelopec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050525523705819610",
+    "in_reply_to_user_id": "722786741547982848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050514907838419319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jewel_Penelopec 峰哥已经没有人类特征了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2050514907838419319",
+        "created_at": "2026-05-02T10:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T11:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050525523705819610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "722786741547982848",
+              "start": 0,
+              "username": "Jewel_Penelopec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050525523705819610",
+        "in_reply_to_user_id": "722786741547982848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050514907838419319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jewel_Penelopec 峰哥已经没有人类特征了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "722786741547982848",
+        "conversation_id": "2050514907838419319",
+        "created_at": "2026-05-02T09:57:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T10:57:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050514907838419319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050514907838419319",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "相由心生.. 我发现长得像日本人/有日本人长相特征的，就有很大概率/一定概率是精日的.. such as '峰哥亡命天涯'."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 112,
+          "like_count": 2770,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 643
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-20T13:59:22.000Z",
+        "description": "「众生于无始生死，无明所盖，爱结所系，长夜轮回生死，不知苦际。」 \n\n人类观察Observe / 研究Research \n\n边缘知识，世界探索 \n\n废话手册，随笔想 . 碎碎念 . 自说自；呓语 '梦呓'；动态话痨； \n\n“为真理正名”\n\n——\n\n“Don't you dare go hollow”",
+        "id": "722786741547982848",
+        "name": "花の専門店",
+        "pinned_tweet_id": "1918330143074131977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005005364777910272/hIGpZDqp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 292,
+          "like_count": 481,
+          "listed_count": 1,
+          "media_count": 881,
+          "tweet_count": 14410
+        },
+        "username": "Jewel_Penelopec",
+        "verified": false
+      }
+    ]
+  }
+}

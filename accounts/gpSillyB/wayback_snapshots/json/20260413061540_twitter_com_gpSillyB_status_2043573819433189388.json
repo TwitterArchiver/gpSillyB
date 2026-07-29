@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2043573592357785836",
+    "created_at": "2026-04-13T06:15:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T07:15:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043573819433189388"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043573819433189388",
+    "in_reply_to_user_id": "1682793693630304260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043573592357785836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "2.我现在一天到晚啥事不干，不学习也不赚钱，我到底在干什么？我是一天到晚和我的情绪在对抗吗？还是只是以精神问题为借口以此心安理得的享乐？就算是真的在对抗我真的有变好吗？试各种药，但没有一个药能坚持服用看不到效果是必然的吧？然后就因为短期看不到效果然后断药或自己换药也是不应该的吧？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2043573592357785836",
+        "created_at": "2026-04-13T06:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043573819433189388"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043573819433189388",
+        "in_reply_to_user_id": "1682793693630304260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043573592357785836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2.我现在一天到晚啥事不干，不学习也不赚钱，我到底在干什么？我是一天到晚和我的情绪在对抗吗？还是只是以精神问题为借口以此心安理得的享乐？就算是真的在对抗我真的有变好吗？试各种药，但没有一个药能坚持服用看不到效果是必然的吧？然后就因为短期看不到效果然后断药或自己换药也是不应该的吧？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2043573592357785836",
+        "created_at": "2026-04-13T06:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043573592357785836"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043573592357785836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "记录一下现在的想法:\n 1.我现在每天烦恼或者痛苦的到底是什么？或者我真的在烦恼或者痛苦吗？我该如何验证究竟是我情绪太低了，需要恢复正常情绪，还是是我情绪一直正常，是dxm或者pea给我的情绪阈值拉高了，导致我一直在追求遥不可及的不可能实现的高情绪，让我认为现在的正常情绪是低情绪？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 52,
+          "like_count": 609,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 205
+        },
+        "username": "gpSillyB",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2047891167870906408",
+    "created_at": "2026-04-25T04:11:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T05:11:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047891347370291512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2014859848899559427",
+          "start": 0,
+          "username": "xuen12011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047891347370291512",
+    "in_reply_to_user_id": "2014859848899559427",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047891167870906408",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuen12011 😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047891153002086400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuSJ0lawAARo1D.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2047891167870906408",
+        "created_at": "2026-04-25T04:11:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:11:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047891347370291512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2014859848899559427",
+              "start": 0,
+              "username": "xuen12011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047891347370291512",
+        "in_reply_to_user_id": "2014859848899559427",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047891167870906408",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuen12011 😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047891153002086400"
+          ]
+        },
+        "author_id": "2014859848899559427",
+        "conversation_id": "2047891167870906408",
+        "created_at": "2026-04-25T04:11:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T05:11:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047891167870906408"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vhXYG8QY79",
+              "end": 26,
+              "expanded_url": "https://x.com/xuen12011/status/2047891167870906408/photo/1",
+              "media_key": "3_2047891153002086400",
+              "start": 3,
+              "url": "https://t.co/vhXYG8QY79"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047891167870906408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玉米 https://t.co/vhXYG8QY79"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 112,
+          "like_count": 2174,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 529
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-24T00:36:48.000Z",
+        "description": "od 重抑 重焦｜碎碎念｜另一个我@EX1211ovo\n不键政｜sx互fo 不查｜青年音全肯定",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 17,
+                "username": "EX1211ovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/enlyn5202",
+                "end": 23,
+                "expanded_url": "https://ngl.link/enlyn5202",
+                "start": 0,
+                "url": "https://t.co/X3Za98WAcQ"
+              }
+            ]
+          }
+        },
+        "id": "2014859848899559427",
+        "location": "下次见",
+        "name": "不是说好下次见吗",
+        "pinned_tweet_id": "2030656519981961405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041966614552440833/7JNXpPCe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 238,
+          "like_count": 4019,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 1104
+        },
+        "url": "https://t.co/X3Za98WAcQ",
+        "username": "xuen12011",
+        "verified": false
+      }
+    ]
+  }
+}

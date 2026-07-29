@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2043351912108756992"
+      ]
+    },
+    "author_id": "1682793693630304260",
+    "conversation_id": "2043351924456747082",
+    "created_at": "2026-04-12T15:33:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T16:33:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043351924456747082"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5yXp9xPncI",
+          "end": 23,
+          "expanded_url": "https://x.com/gpSillyB/status/2043351924456747082/photo/1",
+          "media_key": "16_2043351912108756992",
+          "start": 0,
+          "url": "https://t.co/5yXp9xPncI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043351924456747082",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/5yXp9xPncI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 348,
+        "media_key": "16_2043351912108756992",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HFtxvOhbkAABRFh.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HFtxvOhbkAABRFh.mp4"
+          }
+        ],
+        "width": 254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2043351912108756992"
+          ]
+        },
+        "author_id": "1682793693630304260",
+        "conversation_id": "2043351924456747082",
+        "created_at": "2026-04-12T15:33:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:33:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043351924456747082"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5yXp9xPncI",
+              "end": 23,
+              "expanded_url": "https://x.com/gpSillyB/status/2043351924456747082/photo/1",
+              "media_key": "16_2043351912108756992",
+              "start": 0,
+              "url": "https://t.co/5yXp9xPncI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043351924456747082",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5yXp9xPncI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 50,
+          "like_count": 563,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 188
+        },
+        "username": "gpSillyB",
+        "verified": false
+      }
+    ]
+  }
+}

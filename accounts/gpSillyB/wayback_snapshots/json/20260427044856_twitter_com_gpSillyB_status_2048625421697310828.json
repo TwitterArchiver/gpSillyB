@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2048595640301781359",
+    "created_at": "2026-04-27T04:48:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T05:48:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048625421697310828"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048625421697310828",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048595640301781359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 已完成打卡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048595565773238272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4S0CpasAApd9S.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048595533590310912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG4SyKwaMAA_WIP.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2048595640301781359",
+        "created_at": "2026-04-27T04:48:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T05:48:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048625421697310828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048625421697310828",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048595640301781359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 已完成打卡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048595565773238272",
+            "3_2048595533590310912"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2048595640301781359",
+        "created_at": "2026-04-27T02:50:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T03:50:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048595640301781359"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bw0YqUin0G",
+              "end": 33,
+              "expanded_url": "https://x.com/hg3551019177402/status/2048595640301781359/photo/1",
+              "media_key": "3_2048595565773238272",
+              "start": 10,
+              "url": "https://t.co/bw0YqUin0G"
+            },
+            {
+              "display_url": "pic.x.com/bw0YqUin0G",
+              "end": 33,
+              "expanded_url": "https://x.com/hg3551019177402/status/2048595640301781359/photo/1",
+              "media_key": "3_2048595533590310912",
+              "start": 10,
+              "url": "https://t.co/bw0YqUin0G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048595640301781359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 202,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上好啊，任务发布 https://t.co/bw0YqUin0G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 115,
+          "like_count": 2384,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 587
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "黑圣徒和白罪女 我主人@Orion2588 药物治疗精神病中（每天吃很多就是了），每天直播一下精神病日常，我的语言自知门里下贱20万bei。黑色柳丁：@rinii165892",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 11,
+                "username": "Orion2588"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2047264532599640292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 667,
+          "like_count": 18477,
+          "listed_count": 0,
+          "media_count": 533,
+          "tweet_count": 8837
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

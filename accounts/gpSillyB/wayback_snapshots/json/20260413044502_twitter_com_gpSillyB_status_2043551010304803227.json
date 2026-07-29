@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2043478123615031772",
+    "created_at": "2026-04-13T04:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T05:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043551010304803227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1920438574715154432",
+          "start": 0,
+          "username": "shengmingshouhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043551010304803227",
+    "in_reply_to_user_id": "1920438574715154432",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043478123615031772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shengmingshouhu ?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2043478123615031772",
+        "created_at": "2026-04-13T04:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043551010304803227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1920438574715154432",
+              "start": 0,
+              "username": "shengmingshouhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043551010304803227",
+        "in_reply_to_user_id": "1920438574715154432",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043478123615031772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shengmingshouhu ?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1920438574715154432",
+        "conversation_id": "2043478123615031772",
+        "created_at": "2026-04-12T23:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T00:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043478123615031772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043478123615031772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 404,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "炽烈已极死了孩子们，这就是参加所谓欧弟圈的下场，罪有应得\n\n不作死就不会死\n\n一旦参加欧弟圈不退出，没有任何回头之地，等待着的只有死亡，药物滥用的人没有任何活着的传奇\n\n反沙币药物滥用，拒绝od，从我做起，从身边做起，系度的人没有任何值得可怜，只有可悲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 52,
+          "like_count": 591,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 196
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-08T11:20:19.000Z",
+        "description": "TG交流群：https://t.co/Q0S9z9tNVv\nDC交流群：https://t.co/HId4n2CV2B",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/weizhanersheng…",
+                "end": 29,
+                "expanded_url": "https://t.me/weizhanersheng666",
+                "start": 6,
+                "url": "https://t.co/Q0S9z9tNVv"
+              },
+              {
+                "display_url": "discord.gg/XmNt8AXCEb",
+                "end": 59,
+                "expanded_url": "https://discord.gg/XmNt8AXCEb",
+                "start": 36,
+                "url": "https://t.co/HId4n2CV2B"
+              }
+            ]
+          }
+        },
+        "id": "1920438574715154432",
+        "name": "生命守护百科",
+        "pinned_tweet_id": "2036728396714311988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036726953869549568/CsU2778i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 305,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 175
+        },
+        "username": "shengmingshouhu",
+        "verified": false
+      }
+    ]
+  }
+}

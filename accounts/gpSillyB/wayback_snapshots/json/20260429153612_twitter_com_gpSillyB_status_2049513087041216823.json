@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2049506471491330171",
+    "created_at": "2026-04-29T15:36:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T16:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049513087041216823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1684269091849404416",
+          "start": 0,
+          "username": "hg3551019177402"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049513087041216823",
+    "in_reply_to_user_id": "1684269091849404416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049506471491330171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hg3551019177402 😭一生只爱一种烟，永远怀念waka"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15332,
+        "height": 1280,
+        "media_key": "7_2049506432547180544",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2049506432547180544/pu/img/7TPW1gIoRNPE2B1h.jpg",
+        "public_metrics": {
+          "view_count": 19
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049506432547180544/pu/vid/avc1/320x568/ow1WeIho6VqRNH0c.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049506432547180544/pu/vid/avc1/480x852/gfWHgcC4xE8AIDo3.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2049506432547180544/pu/vid/avc1/720x1280/iNwn5NXT_5E0fx1o.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2049506432547180544/pu/pl/NngZA8WYHpQTKW5C.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2049506471491330171",
+        "created_at": "2026-04-29T15:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049513087041216823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1684269091849404416",
+              "start": 0,
+              "username": "hg3551019177402"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049513087041216823",
+        "in_reply_to_user_id": "1684269091849404416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049506471491330171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hg3551019177402 😭一生只爱一种烟，永远怀念waka"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2049506432547180544"
+          ]
+        },
+        "author_id": "1684269091849404416",
+        "conversation_id": "2049506471491330171",
+        "created_at": "2026-04-29T15:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T16:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049506471491330171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OaDuS2CwrE",
+              "end": 58,
+              "expanded_url": "https://x.com/hg3551019177402/status/2049506471491330171/video/1",
+              "media_key": "7_2049506432547180544",
+              "start": 35,
+              "url": "https://t.co/OaDuS2CwrE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049506471491330171",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要继续震撼推荐这个了，虽然很贵，但是这东西居然让我觉得比真烟都好抽 https://t.co/OaDuS2CwrE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 115,
+          "like_count": 2613,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 615
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-26T18:27:14.000Z",
+        "description": "黑圣徒和白罪女 ，每天直播一下精神病日常，我的语言自知门里下贱20万bei。黑色柳丁：@rinii165892 干点烟代，电子烟纸烟（老板嫌一盒利润太低只能买整条，但是可以混拼！）（价格跟你外面直接买更便宜一点，我能挣个20块左右的回扣，这会让我开心几秒钟，只要有录制开箱视频售后绝对做到位） 已被学校开除",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 43,
+                "username": "rinii165892"
+              }
+            ]
+          }
+        },
+        "id": "1684269091849404416",
+        "name": "12",
+        "pinned_tweet_id": "2049364935185190953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045697198890119168/n-jopRK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 701,
+          "like_count": 18299,
+          "listed_count": 1,
+          "media_count": 584,
+          "tweet_count": 9074
+        },
+        "username": "hg3551019177402",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2043343929828057488",
+    "created_at": "2026-04-12T15:57:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T16:57:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043357935209000965"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1276946695461277696",
+          "start": 0,
+          "username": "Kaikanaaaaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043357935209000965",
+    "in_reply_to_user_id": "1276946695461277696",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043343929828057488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kaikanaaaaa 🥳🥳🥳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2556,
+        "media_key": "3_2043343924643889152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFtqeS5aAAAmS-g.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2043343929828057488",
+        "created_at": "2026-04-12T15:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043357935209000965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1276946695461277696",
+              "start": 0,
+              "username": "Kaikanaaaaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043357935209000965",
+        "in_reply_to_user_id": "1276946695461277696",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043343929828057488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kaikanaaaaa 🥳🥳🥳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043343924643889152"
+          ]
+        },
+        "author_id": "1276946695461277696",
+        "conversation_id": "2043343929828057488",
+        "created_at": "2026-04-12T15:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043343929828057488"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QfNXohAwcg",
+              "end": 121,
+              "expanded_url": "https://x.com/Kaikanaaaaa/status/2043343929828057488/photo/1",
+              "media_key": "3_2043343924643889152",
+              "start": 98,
+              "url": "https://t.co/QfNXohAwcg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043343929828057488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 750,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "ｷﾀ━━━━(ﾟ∀ﾟ)━━━━!!\n誕生日なので祝ってください😆\n風船も割っていってください🎈\n今年もよろしくお願いします(👊 ᴖ ̫ ᴖ)\n(っﾟДﾟ)ว =͟͟͞͞🐼三🎂三🥩Σ(ﾟωﾟﾉ)ﾉ https://t.co/QfNXohAwcg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 51,
+          "like_count": 572,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 191
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-27T18:33:41.000Z",
+        "description": "アナログで描くのが好きです🐼👧￤skeb▶︎ https://t.co/HuGgeZiDbi ￤依頼や展示はメールへ✉️",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Kaikanaaaaa",
+                "end": 46,
+                "expanded_url": "http://skeb.jp/@Kaikanaaaaa",
+                "start": 23,
+                "url": "https://t.co/HuGgeZiDbi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kaikanaaa",
+                "end": 23,
+                "expanded_url": "https://lit.link/kaikanaaa",
+                "start": 0,
+                "url": "https://t.co/FqhDzftFcI"
+              }
+            ]
+          }
+        },
+        "id": "1276946695461277696",
+        "location": "(つ🐼 ･ω･) ͜   🐼🥩Σ(･ω･  ﾉ)ﾉ",
+        "name": "ｶｲｶﾅ",
+        "pinned_tweet_id": "1911420902895394858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972930655035289600/hFWVGBkK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14436,
+          "following_count": 341,
+          "like_count": 13716,
+          "listed_count": 140,
+          "media_count": 370,
+          "tweet_count": 1698
+        },
+        "url": "https://t.co/FqhDzftFcI",
+        "username": "Kaikanaaaaa",
+        "verified": false
+      }
+    ]
+  }
+}

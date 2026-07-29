@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2042021106287308897",
+    "created_at": "2026-04-09T02:51:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T03:51:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042072797430833441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1809776727952093187",
+          "start": 0,
+          "username": "momuzi20"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042072797430833441",
+    "in_reply_to_user_id": "1809776727952093187",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042021106287308897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@momuzi20 od圣体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2042021106287308897",
+        "created_at": "2026-04-09T02:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T03:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042072797430833441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1809776727952093187",
+              "start": 0,
+              "username": "momuzi20"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042072797430833441",
+        "in_reply_to_user_id": "1809776727952093187",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042021106287308897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@momuzi20 od圣体"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1809776727952093187",
+        "conversation_id": "2042021106287308897",
+        "created_at": "2026-04-08T23:25:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T00:25:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042021106287308897"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042021106287308897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉我对精神类药物特别特别敏感。只是标准剂量就足矣让我特别难受。之前去医院开了舍曲林，按标准剂量吃了之后极度心慌心跳的感觉整个人要爆炸了。刚才喝了15ml强力枇杷露 在睡前都看到视线边缘有蓝紫色差+眩晕幻觉（一点点）和依旧是心慌心跳。所以感觉od对我来说纯属自虐完全0快感…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 35,
+          "like_count": 404,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 157
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-07T02:30:23.000Z",
+        "description": "超敏感地雷非量产/发泄现生想鼠纯负能量号/约死+++",
+        "id": "1809776727952093187",
+        "location": "Sydney, New South Wales",
+        "name": "momuzi/CN约死➕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012652698500268032/gefwIlEw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 48,
+          "like_count": 299,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 118
+        },
+        "username": "momuzi20",
+        "verified": false
+      }
+    ]
+  }
+}

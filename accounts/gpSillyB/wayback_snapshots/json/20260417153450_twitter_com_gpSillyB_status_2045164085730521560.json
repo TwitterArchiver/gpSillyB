@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2045148485926936993",
+    "created_at": "2026-04-17T15:34:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T16:34:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045164085730521560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1997511338453876736",
+          "start": 0,
+          "username": "kasemarin1219"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045164085730521560",
+    "in_reply_to_user_id": "1997511338453876736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045148485926936993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kasemarin1219 哥哥，我想要～～🤪🤟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 420,
+        "media_key": "3_2045148480935759872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHTtS8bEAAQlyf.jpg",
+        "width": 719
+      },
+      {
+        "height": 214,
+        "media_key": "3_2045148483569786880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGHTtcwbIAAEZ2X.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2045148485926936993",
+        "created_at": "2026-04-17T15:34:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:34:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045164085730521560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997511338453876736",
+              "start": 0,
+              "username": "kasemarin1219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045164085730521560",
+        "in_reply_to_user_id": "1997511338453876736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045148485926936993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kasemarin1219 哥哥，我想要～～🤪🤟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045148480935759872",
+            "3_2045148483569786880"
+          ]
+        },
+        "author_id": "1997511338453876736",
+        "conversation_id": "2045148485926936993",
+        "created_at": "2026-04-17T14:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045148485926936993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bCrHrcb4Yq",
+              "end": 41,
+              "expanded_url": "https://x.com/kasemarin1219/status/2045148485926936993/photo/1",
+              "media_key": "3_2045148480935759872",
+              "start": 18,
+              "url": "https://t.co/bCrHrcb4Yq"
+            },
+            {
+              "display_url": "pic.x.com/bCrHrcb4Yq",
+              "end": 41,
+              "expanded_url": "https://x.com/kasemarin1219/status/2045148485926936993/photo/1",
+              "media_key": "3_2045148483569786880",
+              "start": 18,
+              "url": "https://t.co/bCrHrcb4Yq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045148485926936993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想要就拿拖鞋拍拍啊找我干嘛我又没屌 https://t.co/bCrHrcb4Yq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 90,
+          "like_count": 1216,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 368
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T03:40:04.000Z",
+        "description": "ISFP 负能 不od对药有心理阴影  偶尔自残发疯这样  其余时候很正常  不会对你恶语相向",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kasemarin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kasemarin",
+                "start": 0,
+                "url": "https://t.co/EWnTz4Y1cl"
+              }
+            ]
+          }
+        },
+        "id": "1997511338453876736",
+        "location": "苦瓜国",
+        "name": "小殇（互fo私）",
+        "pinned_tweet_id": "2044249788015874401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044756604940419072/65qaA5JJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 28,
+          "like_count": 1249,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 591
+        },
+        "url": "https://t.co/EWnTz4Y1cl",
+        "username": "kasemarin1219",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "1939976562561949782",
+    "created_at": "2025-07-01T10:10:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-01T11:10:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939990078845317462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1925136609999265792",
+          "start": 0,
+          "username": "a59Om7Riqu42040"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939990078845317462",
+    "in_reply_to_user_id": "1925136609999265792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939976562561949782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a59Om7Riqu42040 元気そうですね👍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "1939976562561949782",
+        "created_at": "2025-07-01T10:10:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T11:10:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939990078845317462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1925136609999265792",
+              "start": 0,
+              "username": "a59Om7Riqu42040"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939990078845317462",
+        "in_reply_to_user_id": "1925136609999265792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939976562561949782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a59Om7Riqu42040 元気そうですね👍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1925136609999265792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "1939976562561949782",
+        "created_at": "2025-07-01T09:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-01T10:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1939976562561949782"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1939976562561949782",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "んー、なんかすごい気分がいい明日の朝は散歩しようかな、最近運動できてないし歩いた方がいい気がする〜(ง ˙˘˙ )ว"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 32,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 37
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-21T10:28:50.000Z",
+        "description": "中二￤レズ￤ツイ消しします￤DM〇￤病み垢￤あんまり気にせず言ってるから嫌なら自衛お願いします。お別れはブロ解",
+        "id": "1925136609999265792",
+        "name": "ぽえ🥽🥼🪄︎︎",
+        "pinned_tweet_id": "1934521594401243372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938870821805592576/1cK-avv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 79,
+          "like_count": 10872,
+          "listed_count": 5,
+          "media_count": 30,
+          "tweet_count": 1798
+        },
+        "username": "a59Om7Riqu42040",
+        "verified": false
+      }
+    ]
+  }
+}

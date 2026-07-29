@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2043673432408383607",
+    "created_at": "2026-04-14T03:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T04:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043887013670334815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1686798473587470336",
+          "start": 0,
+          "username": "xhtac_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043887013670334815",
+    "in_reply_to_user_id": "1686798473587470336",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043777291105542566",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xhtac_official 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2043673432408383607",
+        "created_at": "2026-04-14T03:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T04:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043887013670334815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1686798473587470336",
+              "start": 0,
+              "username": "xhtac_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043887013670334815",
+        "in_reply_to_user_id": "1686798473587470336",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043777291105542566",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xhtac_official 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686798473587470336",
+        "conversation_id": "2043673432408383607",
+        "created_at": "2026-04-13T19:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T20:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043777291105542566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1682793693630304260",
+              "start": 0,
+              "username": "gpSillyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043777291105542566",
+        "in_reply_to_user_id": "1682793693630304260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043673432408383607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gpSillyB 14谈的第一次、无关年龄"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 61,
+          "like_count": 710,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 235
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-02T17:58:17.000Z",
+        "description": "性癖反映社会发展！承认自己，尊重他人！感谢每位菩萨（lady first）、为华语性产业的进步添砖加瓦！",
+        "id": "1686798473587470336",
+        "location": "杭州",
+        "name": "性癖第一生产力",
+        "pinned_tweet_id": "2043855461640966461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043774038603100160/kYf0D9yJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 956,
+          "like_count": 1180,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 286
+        },
+        "username": "xhtac_official",
+        "verified": false
+      }
+    ]
+  }
+}

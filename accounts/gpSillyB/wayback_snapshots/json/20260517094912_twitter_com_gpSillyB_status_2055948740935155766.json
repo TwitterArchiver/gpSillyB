@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2055630967969403061",
+    "created_at": "2026-05-17T09:49:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T10:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055948740935155766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1841818822485172224",
+          "start": 0,
+          "username": "umiri114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055948740935155766",
+    "in_reply_to_user_id": "1841818822485172224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055630967969403061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@umiri114514 已三🦶定位👁️👁️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055630947480174592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcRdJ3bAAAwD1G.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2055630947480227840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIcRdJ3b0AA1M2C.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2055630967969403061",
+        "created_at": "2026-05-17T09:49:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T10:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055948740935155766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1841818822485172224",
+              "start": 0,
+              "username": "umiri114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055948740935155766",
+        "in_reply_to_user_id": "1841818822485172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055630967969403061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@umiri114514 已三🦶定位👁️👁️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055630947480174592",
+            "3_2055630947480227840"
+          ]
+        },
+        "author_id": "1841818822485172224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2055630967969403061",
+        "created_at": "2026-05-16T12:46:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:46:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055630967969403061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c7WeAr5jfM",
+              "end": 56,
+              "expanded_url": "https://x.com/umiri114514/status/2055630967969403061/photo/1",
+              "media_key": "3_2055630947480174592",
+              "start": 33,
+              "url": "https://t.co/c7WeAr5jfM"
+            },
+            {
+              "display_url": "pic.x.com/c7WeAr5jfM",
+              "end": 56,
+              "expanded_url": "https://x.com/umiri114514/status/2055630967969403061/photo/1",
+              "media_key": "3_2055630947480227840",
+              "start": 33,
+              "url": "https://t.co/c7WeAr5jfM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055630967969403061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去死去死去死去死去死去死去死去死去死去死去死去死去死去死去死去死 https://t.co/c7WeAr5jfM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 173,
+          "like_count": 4595,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 937
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T12:33:35.000Z",
+        "description": "090518/正常交流/求互fo",
+        "id": "1841818822485172224",
+        "location": "厕所",
+        "name": "综上所述….",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055463603583733760/yypdWrpY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 40,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 7
+        },
+        "username": "umiri114514",
+        "verified": false
+      }
+    ]
+  }
+}

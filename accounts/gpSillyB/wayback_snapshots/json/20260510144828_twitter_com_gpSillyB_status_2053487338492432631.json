@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2053486140494397636",
+    "created_at": "2026-05-10T14:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T15:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053487338492432631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1997511338453876736",
+          "start": 0,
+          "username": "kasemarin1219"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053487338492432631",
+    "in_reply_to_user_id": "1997511338453876736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053486140494397636",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kasemarin1219 太假了！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2053486136404946944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9ywt-bMAA7pT_.jpg",
+        "width": 720
+      },
+      {
+        "height": 1604,
+        "media_key": "3_2053486137138905088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9ywwtagAAaFL0.jpg",
+        "width": 720
+      },
+      {
+        "height": 1604,
+        "media_key": "3_2053486137688379392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9ywywa0AAMAjP.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2053486140494397636",
+        "created_at": "2026-05-10T14:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053487338492432631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997511338453876736",
+              "start": 0,
+              "username": "kasemarin1219"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053487338492432631",
+        "in_reply_to_user_id": "1997511338453876736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053486140494397636",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kasemarin1219 太假了！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053486136404946944",
+            "3_2053486137138905088",
+            "3_2053486137688379392"
+          ]
+        },
+        "author_id": "1997511338453876736",
+        "conversation_id": "2053486140494397636",
+        "created_at": "2026-05-10T14:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T15:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053486140494397636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1whjrog9A5",
+              "end": 106,
+              "expanded_url": "https://x.com/kasemarin1219/status/2053486140494397636/photo/1",
+              "media_key": "3_2053486136404946944",
+              "start": 83,
+              "url": "https://t.co/1whjrog9A5"
+            },
+            {
+              "display_url": "pic.x.com/1whjrog9A5",
+              "end": 106,
+              "expanded_url": "https://x.com/kasemarin1219/status/2053486140494397636/photo/1",
+              "media_key": "3_2053486137138905088",
+              "start": 83,
+              "url": "https://t.co/1whjrog9A5"
+            },
+            {
+              "display_url": "pic.x.com/1whjrog9A5",
+              "end": 106,
+              "expanded_url": "https://x.com/kasemarin1219/status/2053486140494397636/photo/1",
+              "media_key": "3_2053486137688379392",
+              "start": 83,
+              "url": "https://t.co/1whjrog9A5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053486140494397636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晶哥真正该管的是这些毒枭。我也不知道我哪里看上去像是喜欢吸毒的样子，居然给我发这种东西。阴不阴。。你们最好都别联系这种，一看就是诈骗，反正被骗了遇到问题的人不是我。 https://t.co/1whjrog9A5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 154,
+          "like_count": 3979,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 868
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T03:40:04.000Z",
+        "description": "ISFP 正负参半 不od对药有心理阴影 喜欢割腿催吐制造美丽淤青",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kasemarin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kasemarin",
+                "start": 0,
+                "url": "https://t.co/EWnTz4Y1cl"
+              }
+            ]
+          }
+        },
+        "id": "1997511338453876736",
+        "location": "离开这里",
+        "name": "小殇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044756604940419072/65qaA5JJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 30,
+          "like_count": 1382,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 704
+        },
+        "url": "https://t.co/EWnTz4Y1cl",
+        "username": "kasemarin1219",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2048274172577820903",
+    "created_at": "2026-04-26T19:21:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T20:21:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048482512146698630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1814688236398166016",
+          "start": 0,
+          "username": "love727luv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048482512146698630",
+    "in_reply_to_user_id": "1814688236398166016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048274172577820903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@love727luv 现实太糟糕了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2048274172577820903",
+        "created_at": "2026-04-26T19:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T20:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048482512146698630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814688236398166016",
+              "start": 0,
+              "username": "love727luv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048482512146698630",
+        "in_reply_to_user_id": "1814688236398166016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048274172577820903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@love727luv 现实太糟糕了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814688236398166016",
+        "conversation_id": "2048274172577820903",
+        "created_at": "2026-04-26T05:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T06:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048274172577820903"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048274172577820903",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果每个人善意多一点，那这个世界就会变得很美好ฅ●ω●ฅ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 115,
+          "like_count": 2313,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 571
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T15:46:15.000Z",
+        "description": "男｜透明人｜开心发推 生气发推 伤心发推 无聊发推 情绪化发推 这个世界很美好:P",
+        "id": "1814688236398166016",
+        "name": "x_x",
+        "pinned_tweet_id": "2048275779616931994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047348345560350721/8tVcEm6h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 449,
+          "like_count": 1733,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 329
+        },
+        "username": "love727luv",
+        "verified": false
+      }
+    ]
+  }
+}

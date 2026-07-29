@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2052751707088515554",
+    "created_at": "2026-05-08T14:14:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T15:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052753967617368454"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1997644719908884480",
+          "start": 0,
+          "username": "Oz_Garlandd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052753967617368454",
+    "in_reply_to_user_id": "1997644719908884480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052751707088515554",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oz_Garlandd 羡慕😭看着很精神呀～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1709,
+        "media_key": "3_2052751679964016640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzWxuhXcAAL-C_.jpg",
+        "width": 649
+      },
+      {
+        "height": 1509,
+        "media_key": "3_2052751680492466178",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzWxwfW8AIuNk1.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2052751707088515554",
+        "created_at": "2026-05-08T14:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052753967617368454"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997644719908884480",
+              "start": 0,
+              "username": "Oz_Garlandd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052753967617368454",
+        "in_reply_to_user_id": "1997644719908884480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052751707088515554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oz_Garlandd 羡慕😭看着很精神呀～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052751679964016640",
+            "3_2052751680492466178"
+          ]
+        },
+        "author_id": "1997644719908884480",
+        "conversation_id": "2052751707088515554",
+        "created_at": "2026-05-08T14:05:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T15:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052751707088515554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l8ypSFGqFg",
+              "end": 164,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2052751707088515554/photo/1",
+              "media_key": "3_2052751679964016640",
+              "start": 141,
+              "url": "https://t.co/l8ypSFGqFg"
+            },
+            {
+              "display_url": "pic.x.com/l8ypSFGqFg",
+              "end": 164,
+              "expanded_url": "https://x.com/Oz_Garlandd/status/2052751707088515554/photo/1",
+              "media_key": "3_2052751680492466178",
+              "start": 141,
+              "url": "https://t.co/l8ypSFGqFg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052751707088515554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天去学校 和同学们玩得很开心 被调侃自从在家皮肤变白了 精神也容光焕发 穿了三年只穿了三次的正装 合了许多有趣的影 似乎只有今天从才做题家的身份中解脱 成为所谓的男高\n不过昨天只睡了3小时 今天活力那么饱满 有点不太对劲🤔也没吃药啊\n原谅我拙劣的p图技术🥺最后还是叫AI修了一下 https://t.co/l8ypSFGqFg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 122,
+          "like_count": 3555,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 767
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-07T12:31:23.000Z",
+        "description": "✟玉米片大天使😇✟～intj～\n\n剩下的还没想好😴",
+        "id": "1997644719908884480",
+        "name": "Gar1andd",
+        "pinned_tweet_id": "2050843626784067838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033981376060416000/VoTPyNwV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 222,
+          "like_count": 17137,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1122
+        },
+        "username": "Oz_Garlandd",
+        "verified": false
+      }
+    ]
+  }
+}

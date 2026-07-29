@@ -1,0 +1,139 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2044469415828459767",
+    "created_at": "2026-04-26T16:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T17:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048436573893800423"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048436573893800423",
+    "in_reply_to_user_id": "1682793693630304260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044469415828459767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "2026/4/26\n情绪：2\n行动力：3\n脑子状态：2\n绝望。我需要钱，我停止不了焦虑。今天不想写。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2044469415828459767",
+        "created_at": "2026-04-26T16:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048436573893800423"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048436573893800423",
+        "in_reply_to_user_id": "1682793693630304260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044469415828459767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2026/4/26\n情绪：2\n行动力：3\n脑子状态：2\n绝望。我需要钱，我停止不了焦虑。今天不想写。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2044469415828459767",
+        "created_at": "2026-04-15T17:34:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T18:34:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044469415828459767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044469415828459767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 586,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "打算每天观察记录一下自己的情绪和状态。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 115,
+          "like_count": 2269,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 560
+        },
+        "username": "gpSillyB",
+        "verified": false
+      }
+    ]
+  }
+}

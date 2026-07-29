@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "1946912091912470894",
+    "created_at": "2025-07-20T12:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-20T13:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946912443969745312"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1914102171190345728",
+          "start": 0,
+          "username": "_4jrilfk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946912443969745312",
+    "in_reply_to_user_id": "1914102171190345728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946912091912470894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_4jrilfk これなに?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "1946912091912470894",
+        "created_at": "2025-07-20T12:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T13:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946912443969745312"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1914102171190345728",
+              "start": 0,
+              "username": "_4jrilfk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946912443969745312",
+        "in_reply_to_user_id": "1914102171190345728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946912091912470894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_4jrilfk これなに?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914102171190345728",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "1930421900263522304",
+              "name": "Shimizu S-Pulse vs Yokohama FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "731226246537830400",
+              "name": "Japan national football team"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756538548948992",
+              "name": "J1 League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1930421900263522304",
+              "name": "Shimizu S-Pulse vs Yokohama FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "1930421900263522304",
+              "name": "Shimizu S-Pulse vs Yokohama FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Yokohama",
+              "id": "1009174794506399744",
+              "name": "Yokohama"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Nagoya",
+              "id": "859408970473066496",
+              "name": "Nagoya"
+            }
+          }
+        ],
+        "conversation_id": "1946912091912470894",
+        "created_at": "2025-07-20T12:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-20T13:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946912091912470894"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "横浜県 名古屋県 博多県 仙台県",
+              "probability": 0.0668,
+              "start": 0,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946912091912470894",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "横浜県 名古屋県 博多県 仙台県"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 40,
+          "like_count": 156,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 59
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T23:41:50.000Z",
+        "description": "11世代 鍵@4filq_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 6,
+                "username": "4filq_"
+              }
+            ]
+          }
+        },
+        "id": "1914102171190345728",
+        "name": "お姫様にはなれない",
+        "pinned_tweet_id": "1918630042596213231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917955665911480320/V7AbR79M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 91,
+          "like_count": 996,
+          "listed_count": 4,
+          "media_count": 19,
+          "tweet_count": 440
+        },
+        "username": "_4jrilfk",
+        "verified": false
+      }
+    ]
+  }
+}

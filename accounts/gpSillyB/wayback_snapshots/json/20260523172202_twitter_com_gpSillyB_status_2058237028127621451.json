@@ -1,0 +1,140 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2058163435083534618",
+    "created_at": "2026-05-23T17:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T18:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058237028127621451"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058237028127621451",
+    "in_reply_to_user_id": "1682793693630304260",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058163435083534618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但很遗憾，这样的我也只是理想中的我，我现在做不到。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2058163435083534618",
+        "created_at": "2026-05-23T17:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T18:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058237028127621451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058237028127621451",
+        "in_reply_to_user_id": "1682793693630304260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058163435083534618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但很遗憾，这样的我也只是理想中的我，我现在做不到。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2058163435083534618",
+        "created_at": "2026-05-23T12:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058163435083534618"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058163435083534618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我说说一个我理想中的普通的糟糕的我。\n每天旷课，偶尔去学校看看，老师批评就打哈哈过去，在家里，不是猛玩电脑就是猛玩手机，或者睡觉。\n然后垃圾也会堆积，浴室也会打扫，但我没有那么痛苦，我实在看不下去了也能大干一场，把家里变得很干净即使我有拖延。\n我买个锅子在家里研究烧菜，但是很快没兴趣了我就一直点外卖了，把烧菜丢在一边然后继续去研究别的东西。\n晚上躺床上睡觉，或者玩手机玩到睡觉，早上继续这样，但我好像乐在其中，期末考试努努力还是能通过的，虽然那段时间会很痛苦。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我说说一个我理想中的普通的糟糕的我。\n每天旷课，偶尔去学校看看，老师批评就打哈哈过去，在家里，不是猛玩电脑就是猛玩手机，或者睡觉。\n然后垃圾也会堆积，浴室也会打扫，但我没有那么痛苦，我实在看不下去了也能大干一场，把家里变得很干净即使我有拖延。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 172,
+          "like_count": 5013,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 966
+        },
+        "username": "gpSillyB",
+        "verified": false
+      }
+    ]
+  }
+}

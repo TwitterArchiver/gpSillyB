@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2013824620252799012",
+    "created_at": "2026-01-21T11:26:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T12:26:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013936336441663883"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1914102171190345728",
+          "start": 0,
+          "username": "_4jrilfk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013936336441663883",
+    "in_reply_to_user_id": "1914102171190345728",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013824620252799012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_4jrilfk 😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2013824620252799012",
+        "created_at": "2026-01-21T11:26:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T12:26:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013936336441663883"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1914102171190345728",
+              "start": 0,
+              "username": "_4jrilfk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013936336441663883",
+        "in_reply_to_user_id": "1914102171190345728",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013824620252799012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_4jrilfk 😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914102171190345728",
+        "conversation_id": "2013824620252799012",
+        "created_at": "2026-01-21T04:02:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T05:02:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013824620252799012"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "日本",
+              "probability": 0.8108,
+              "start": 0,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013824620252799012",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日本も銃okにしてくれないかなあ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 32,
+          "like_count": 224,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 84
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T23:41:50.000Z",
+        "description": "ljc",
+        "id": "1914102171190345728",
+        "name": "不登校ニート西成ホームレス",
+        "pinned_tweet_id": "1980248974440476676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988976038374961158/yMjisNwm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 119,
+          "like_count": 2632,
+          "listed_count": 6,
+          "media_count": 44,
+          "tweet_count": 1301
+        },
+        "username": "_4jrilfk",
+        "verified": false
+      }
+    ]
+  }
+}

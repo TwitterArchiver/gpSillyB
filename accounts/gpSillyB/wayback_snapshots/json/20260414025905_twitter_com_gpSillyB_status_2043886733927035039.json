@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2043673432408383607",
+    "created_at": "2026-04-14T02:59:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T03:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043886733927035039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1964740405578301440",
+          "start": 0,
+          "username": "GY11499965"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043886733927035039",
+    "in_reply_to_user_id": "1964740405578301440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043816810852823189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GY11499965 或许是的!🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2043673432408383607",
+        "created_at": "2026-04-14T02:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T03:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043886733927035039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1964740405578301440",
+              "start": 0,
+              "username": "GY11499965"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043886733927035039",
+        "in_reply_to_user_id": "1964740405578301440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043816810852823189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GY11499965 或许是的!🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964740405578301440",
+        "conversation_id": "2043673432408383607",
+        "created_at": "2026-04-13T22:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T23:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043816810852823189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1682793693630304260",
+              "start": 0,
+              "username": "gpSillyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043816810852823189",
+        "in_reply_to_user_id": "1682793693630304260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043673432408383607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gpSillyB 没有啊，为什么一定要谈，如果你生活很幸福那恋爱不一定会锦上添花的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 61,
+          "like_count": 708,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 233
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-07T17:20:05.000Z",
+        "description": "老大，我们这样整天回复真的能约到吗？（求退穷圈教程）",
+        "id": "1964740405578301440",
+        "location": "0.1km",
+        "name": "Z",
+        "pinned_tweet_id": "2043817661990346858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964740547010232320/9w-Uy53s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 73,
+          "like_count": 266,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 376
+        },
+        "username": "GY11499965",
+        "verified": false
+      }
+    ]
+  }
+}

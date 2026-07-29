@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "1946266634659717396",
+    "created_at": "2025-07-18T18:03:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T19:03:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946269557712412966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1588108255489716229",
+          "start": 0,
+          "username": "inu_dxm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946269557712412966",
+    "in_reply_to_user_id": "1588108255489716229",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1946266634659717396",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inu_dxm 幸い私の家は一階だけなので、このような問題は心配しないで済みます。😇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "1946266634659717396",
+        "created_at": "2025-07-18T18:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T19:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946269557712412966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1588108255489716229",
+              "start": 0,
+              "username": "inu_dxm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946269557712412966",
+        "in_reply_to_user_id": "1588108255489716229",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1946266634659717396",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inu_dxm 幸い私の家は一階だけなので、このような問題は心配しないで済みます。😇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588108255489716229",
+        "conversation_id": "1946266634659717396",
+        "created_at": "2025-07-18T17:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T18:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1946266634659717396"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1946266634659717396",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吐きたいのに吐けない…（^ ̥_  ̫ _ ̥^）\n久々にちゃんとごはんたべたら胃もたれで気持ち悪い、、やっぱ勝たんしかくすり。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 40,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 56
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-03T09:58:22.000Z",
+        "description": "生きた記録￤関西",
+        "id": "1588108255489716229",
+        "name": "いぬかわ",
+        "pinned_tweet_id": "1944621906398949834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944617717006508032/4P3xFhuh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 16,
+          "like_count": 103,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 60
+        },
+        "username": "inu_dxm",
+        "verified": false
+      }
+    ]
+  }
+}

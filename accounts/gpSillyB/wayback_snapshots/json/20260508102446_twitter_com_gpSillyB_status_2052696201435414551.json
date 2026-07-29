@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2052684209379274928",
+    "created_at": "2026-05-08T10:24:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T11:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052696201435414551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2052022839096844289",
+          "start": 0,
+          "username": "Haerinl7ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052696201435414551",
+    "in_reply_to_user_id": "2052022839096844289",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052684209379274928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haerinl7ovo 😢一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2052684209379274928",
+        "created_at": "2026-05-08T10:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T11:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052696201435414551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2052022839096844289",
+              "start": 0,
+              "username": "Haerinl7ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052696201435414551",
+        "in_reply_to_user_id": "2052022839096844289",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052684209379274928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haerinl7ovo 😢一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052022839096844289",
+        "conversation_id": "2052684209379274928",
+        "created_at": "2026-05-08T09:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T10:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052684209379274928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052684209379274928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么你们休学都可以当作一种休息、一种调整，心态可以慢慢的去恢复。距离我休学现在已经有一个多月了，每天都在焦虑中挣扎，怀念过去、焦虑现在、担忧未来，我觉得这一切都是我自找的..🥲每天就好比行尸走肉一般，除了睡觉吃饭就是看手机，好无趣(´･ω･`)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 117,
+          "like_count": 3496,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 757
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T13:49:28.000Z",
+        "description": "然后呢",
+        "id": "2052022839096844289",
+        "name": "Haerin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052023091686199297/AxZ67lT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 7,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 24
+        },
+        "username": "Haerinl7ovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2039674483855012182",
+    "created_at": "2026-04-03T10:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T11:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040017603369017745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2009255871201841152",
+          "start": 0,
+          "username": "mandy091024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040017603369017745",
+    "in_reply_to_user_id": "2009255871201841152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039674483855012182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mandy091024 晚安和这俩真的能相提并论吗，晚安也太恶心了吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2039674483855012182",
+        "created_at": "2026-04-03T10:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T11:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040017603369017745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2009255871201841152",
+              "start": 0,
+              "username": "mandy091024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040017603369017745",
+        "in_reply_to_user_id": "2009255871201841152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039674483855012182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mandy091024 晚安和这俩真的能相提并论吗，晚安也太恶心了吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2009255871201841152",
+        "conversation_id": "2039674483855012182",
+        "created_at": "2026-04-02T12:01:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T13:01:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039674483855012182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039674483855012182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1093,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "pr和玉米是真的要列管了吗 还有什么新的能o啊 感觉晚安太恶心了不喜欢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 30,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 136
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-08T13:28:35.000Z",
+        "description": "🐱🖤消肿笔来互fo好吗（❌男）\n真皮妹/od/09/休学",
+        "id": "2009255871201841152",
+        "name": "Ag",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033514627989127168/CtxbopiM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 164,
+          "like_count": 494,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 123
+        },
+        "username": "mandy091024",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2051772877519921358",
+    "created_at": "2026-05-07T09:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T10:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052317540186296753"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2052022839096844289",
+          "start": 0,
+          "username": "Haerinl7ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052317540186296753",
+    "in_reply_to_user_id": "2052022839096844289",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052302066148892757",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Haerinl7ovo 塔菲喵🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2051772877519921358",
+        "created_at": "2026-05-07T09:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T10:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052317540186296753"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2052022839096844289",
+              "start": 0,
+              "username": "Haerinl7ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052317540186296753",
+        "in_reply_to_user_id": "2052022839096844289",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052302066148892757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Haerinl7ovo 塔菲喵🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2052022839096844289",
+        "conversation_id": "2051772877519921358",
+        "created_at": "2026-05-07T08:18:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:18:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052302066148892757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1682793693630304260",
+              "start": 0,
+              "username": "gpSillyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052302066148892757",
+        "in_reply_to_user_id": "1682793693630304260",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051772877519921358",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gpSillyB 塔菲喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 115,
+          "like_count": 3414,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 731
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T13:49:28.000Z",
+        "description": "我会乖巧一点",
+        "id": "2052022839096844289",
+        "name": "Haerin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052023091686199297/AxZ67lT6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 6,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 15
+        },
+        "username": "Haerinl7ovo",
+        "verified": false
+      }
+    ]
+  }
+}

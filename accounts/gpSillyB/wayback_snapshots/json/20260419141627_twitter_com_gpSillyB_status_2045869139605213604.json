@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2045744252383322335",
+    "created_at": "2026-04-19T14:16:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045869139605213604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1814688236398166016",
+          "start": 0,
+          "username": "caonimaovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045869139605213604",
+    "in_reply_to_user_id": "1814688236398166016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045744252383322335",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@caonimaovo 10u战士报道😡已严肃爆仓"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24666,
+        "height": 1280,
+        "media_key": "7_2045744119038042112",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2045744119038042112/pu/img/h849n46VgFAbdE0v.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045744119038042112/pu/vid/avc1/320x568/_LsEhIVZidRielz-.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045744119038042112/pu/vid/avc1/480x852/qmemjdeBYwcdkqPA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045744119038042112/pu/vid/avc1/720x1280/9Kp5kMmAWBdns8_q.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2045744119038042112/pu/pl/Ia8025B3-nIG6RIP.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2045744252383322335",
+        "created_at": "2026-04-19T14:16:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045869139605213604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814688236398166016",
+              "start": 0,
+              "username": "caonimaovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045869139605213604",
+        "in_reply_to_user_id": "1814688236398166016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045744252383322335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@caonimaovo 10u战士报道😡已严肃爆仓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2045744119038042112"
+          ]
+        },
+        "author_id": "1814688236398166016",
+        "conversation_id": "2045744252383322335",
+        "created_at": "2026-04-19T06:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T07:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045744252383322335"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tpixwABYAJ",
+              "end": 51,
+              "expanded_url": "https://x.com/caonimaovo/status/2045744252383322335/video/1",
+              "media_key": "7_2045744119038042112",
+              "start": 28,
+              "url": "https://t.co/tpixwABYAJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045744252383322335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还真是，现在还有没有只靠交易生活，不穷也不富的交易员了 https://t.co/tpixwABYAJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 94,
+          "like_count": 1337,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 390
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T15:46:15.000Z",
+        "description": "！",
+        "id": "1814688236398166016",
+        "name": "x_x",
+        "pinned_tweet_id": "2045167004437647389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044794395598467072/KMxOjwP-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 296,
+          "like_count": 1081,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 147
+        },
+        "username": "caonimaovo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2045837800436834688",
+    "created_at": "2026-04-19T14:07:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:07:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045866799670219091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1933128613601427456",
+          "start": 0,
+          "username": "Kiridollsuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045866799670219091",
+    "in_reply_to_user_id": "1933128613601427456",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045837800436834688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiridollsuki 😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2045837800436834688",
+        "created_at": "2026-04-19T14:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045866799670219091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1933128613601427456",
+              "start": 0,
+              "username": "Kiridollsuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045866799670219091",
+        "in_reply_to_user_id": "1933128613601427456",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045837800436834688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiridollsuki 😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1933128613601427456",
+        "conversation_id": "2045837800436834688",
+        "created_at": "2026-04-19T12:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T13:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045837800436834688"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gpSillyB/statu…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/gpSillyB/status/2045728235959488633",
+              "start": 47,
+              "url": "https://t.co/6sTPzzWkkz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045837800436834688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045728235959488633",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的朋友到底是喜欢我，还是喜欢度洛西汀，喹硫平，碳酸锂？为什么我一停药他们就不理我的消息了😇 https://t.co/6sTPzzWkkz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 94,
+          "like_count": 1319,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 385
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-12T11:46:09.000Z",
+        "description": "双相，希望能交到同病相怜的友達/暂定不线下，因为距离产生美，怕相见难免失望する/有喜欢的人，但大概率是无法在一起的方思い",
+        "id": "1933128613601427456",
+        "name": "星見シウアン",
+        "pinned_tweet_id": "2039185092313244138",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933128690227167232/GhtebO7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 108,
+          "like_count": 2329,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1294
+        },
+        "username": "Kiridollsuki",
+        "verified": false
+      }
+    ]
+  }
+}

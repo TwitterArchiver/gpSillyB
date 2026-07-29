@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2052028427553923466",
+    "created_at": "2026-05-06T15:07:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T16:07:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052042687994642625"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946863961502298112",
+          "start": 0,
+          "username": "Chloris8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052042687994642625",
+    "in_reply_to_user_id": "1946863961502298112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052028427553923466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chloris8964 我也很喜欢!但是根本学不会😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 198543,
+        "height": 644,
+        "media_key": "13_2052027923922870274",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052027923922870274/img/Ig6gDhA_qygkZWZ4.jpg",
+        "public_metrics": {
+          "view_count": 41
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052027923922870274/vid/avc1/536x270/Xup3gwoxjc7NMdFv.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052027923922870274/vid/avc1/714x360/rcYV3QkjKTnPfgxU.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052027923922870274/vid/avc1/1280x644/2xLDBj1mPZ33jTNq.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052027923922870274/pl/tk_UzCPHb2NN8lRz.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2052028427553923466",
+        "created_at": "2026-05-06T15:07:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:07:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052042687994642625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946863961502298112",
+              "start": 0,
+              "username": "Chloris8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052042687994642625",
+        "in_reply_to_user_id": "1946863961502298112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052028427553923466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chloris8964 我也很喜欢!但是根本学不会😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052027923922870274"
+          ]
+        },
+        "author_id": "1946863961502298112",
+        "conversation_id": "2052028427553923466",
+        "created_at": "2026-05-06T14:11:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:11:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052028427553923466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/km2AKLGHdi",
+              "end": 95,
+              "expanded_url": "https://x.com/Chloris8964/status/2052028427553923466/video/1",
+              "media_key": "13_2052027923922870274",
+              "start": 72,
+              "url": "https://t.co/km2AKLGHdi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052028427553923466",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "聽說視頻能引流嗎，我最後再試試，要還沒流量我就卸掉了。\n彈的是自己喜歡的《風の詩》，但是因為一次過所以有的地方彈得不太好請多包容。\n大家晚安。 https://t.co/km2AKLGHdi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 116,
+          "like_count": 3374,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 716
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T09:25:27.000Z",
+        "description": "性別不明五颜六色的果冻鱼今天依然努力活著。求求你给我转推",
+        "id": "1946863961502298112",
+        "location": "| ♡˚₊‧꒰ა❤︎໒꒱ ‧₊♡|",
+        "name": "吃果冻的果冻鱼🪼",
+        "pinned_tweet_id": "2052028427553923466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052014657842614272/HgEUj0pS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7489,
+          "following_count": 124,
+          "like_count": 2591,
+          "listed_count": 15,
+          "media_count": 48,
+          "tweet_count": 697
+        },
+        "username": "Chloris8964",
+        "verified": true
+      }
+    ]
+  }
+}

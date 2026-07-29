@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "1984461380909744531",
+    "created_at": "2025-11-01T19:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T20:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984708897983328754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1914102171190345728",
+          "start": 0,
+          "username": "_4jrilfk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984708897983328754",
+    "in_reply_to_user_id": "1914102171190345728",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984461380909744531",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_4jrilfk 😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "1984461380909744531",
+        "created_at": "2025-11-01T19:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T20:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984708897983328754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1914102171190345728",
+              "start": 0,
+              "username": "_4jrilfk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984708897983328754",
+        "in_reply_to_user_id": "1914102171190345728",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984461380909744531",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_4jrilfk 😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914102171190345728",
+        "conversation_id": "1984461380909744531",
+        "created_at": "2025-11-01T03:23:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T04:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984461380909744531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/takaichi_sanae…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/takaichi_sanae/status/1984238688868700630",
+              "start": 43,
+              "url": "https://t.co/9lMSzwp9oZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984461380909744531",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 471,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984238688868700630",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "サナ疲れてるはずなのにいつもニコニコしててかわいい他の国の人とも仲良くしててすごい！ https://t.co/9lMSzwp9oZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 37,
+          "like_count": 219,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 79
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T23:41:50.000Z",
+        "description": "11（14）最推し@takaichi_sanae",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "takaichi_sanae"
+              }
+            ]
+          }
+        },
+        "id": "1914102171190345728",
+        "location": "精神科",
+        "name": "⑅⃛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955438401089572864/aBY6VeE1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 119,
+          "like_count": 2490,
+          "listed_count": 7,
+          "media_count": 40,
+          "tweet_count": 1006
+        },
+        "username": "_4jrilfk",
+        "verified": false
+      }
+    ]
+  }
+}

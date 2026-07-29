@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2047474363306529111",
+    "created_at": "2026-04-24T04:16:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T05:16:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047530026481160336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2028306052371075072",
+          "start": 0,
+          "username": "chnbixngxn48201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047530026481160336",
+    "in_reply_to_user_id": "2028306052371075072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047474363306529111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnbixngxn48201 我理发的时候特别紧张，不知道为什么总是会忍不住一抽一抽的，每次都会吓到理发师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2047474363306529111",
+        "created_at": "2026-04-24T04:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T05:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047530026481160336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2028306052371075072",
+              "start": 0,
+              "username": "chnbixngxn48201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047530026481160336",
+        "in_reply_to_user_id": "2028306052371075072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047474363306529111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnbixngxn48201 我理发的时候特别紧张，不知道为什么总是会忍不住一抽一抽的，每次都会吓到理发师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028306052371075072",
+        "conversation_id": "2047474363306529111",
+        "created_at": "2026-04-24T00:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T01:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047474363306529111"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047474363306529111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "头发再不剪就要过肩膀了，不想去理发店。一是没钱二是不想让别人碰我头发，有恶心感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 112,
+          "like_count": 2086,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 509
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T03:07:15.000Z",
+        "description": "🤍/自言自语/精神不稳定",
+        "id": "2028306052371075072",
+        "location": "null",
+        "name": "純白行星",
+        "pinned_tweet_id": "2047485421966565846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047378742499274756/GxIX0DOa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 52,
+          "like_count": 282,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 155
+        },
+        "username": "chnbixngxn48201",
+        "verified": false
+      }
+    ]
+  }
+}

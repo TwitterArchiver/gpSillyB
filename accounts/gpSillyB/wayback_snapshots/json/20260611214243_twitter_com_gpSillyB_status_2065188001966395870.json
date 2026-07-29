@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2065152223362125964",
+    "created_at": "2026-06-11T21:42:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T22:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065188001966395870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1688556439865090048",
+          "start": 0,
+          "username": "ysn42231385235"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065188001966395870",
+    "in_reply_to_user_id": "1688556439865090048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065152223362125964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ysn42231385235 牛呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35008,
+        "height": 720,
+        "media_key": "7_2065152141820637184",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2065152141820637184/pu/img/_kzGJyl-wkPGxSlB.jpg",
+        "public_metrics": {
+          "view_count": 18
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065152141820637184/pu/vid/avc1/480x270/5F-h11AzTPHRE4B5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065152141820637184/pu/vid/avc1/640x360/dORk5M_dx3B-Pk_0.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2065152141820637184/pu/vid/avc1/1280x720/ttL8cvZPd5jfqXl9.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2065152141820637184/pu/pl/r09yFazkJh3zbQC9.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2065152223362125964",
+        "created_at": "2026-06-11T21:42:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T22:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065188001966395870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1688556439865090048",
+              "start": 0,
+              "username": "ysn42231385235"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065188001966395870",
+        "in_reply_to_user_id": "1688556439865090048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065152223362125964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ysn42231385235 牛呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2065152141820637184"
+          ]
+        },
+        "author_id": "1688556439865090048",
+        "conversation_id": "2065152223362125964",
+        "created_at": "2026-06-11T19:20:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T20:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065152223362125964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZpSquuZUMm",
+              "end": 27,
+              "expanded_url": "https://x.com/ysn42231385235/status/2065152223362125964/video/1",
+              "media_key": "7_2065152141820637184",
+              "start": 4,
+              "url": "https://t.co/ZpSquuZUMm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065152223362125964",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "練習。 https://t.co/ZpSquuZUMm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 189,
+          "like_count": 5527,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 1022
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T14:23:45.000Z",
+        "description": "请称呼我月誓就好！                                                            \n男的，od狗音游狗光棒狗。我没有啥道德感只想操逼，上网只是性压抑和想冲浪还有发泄情绪。本质上是一个开心的傻子，可爱小妹妹可以私信我 (*^▽^*)",
+        "id": "1688556439865090048",
+        "location": "想认识更多朋友 互fo欢迎",
+        "name": "ミエナイ",
+        "pinned_tweet_id": "2026775867977007254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062582170120855552/o_wJwRLU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 557,
+          "like_count": 8422,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 2630
+        },
+        "username": "ysn42231385235",
+        "verified": false
+      }
+    ]
+  }
+}

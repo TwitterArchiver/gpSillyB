@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2044163010378510429",
+    "created_at": "2026-04-14T21:35:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T22:35:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044167578097201538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1971168102349144065",
+          "start": 0,
+          "username": "anni90083291396"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044167578097201538",
+    "in_reply_to_user_id": "1971168102349144065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044163316336210391",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anni90083291396 上学最糟糕了……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2044163010378510429",
+        "created_at": "2026-04-14T21:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T22:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044167578097201538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1971168102349144065",
+              "start": 0,
+              "username": "anni90083291396"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044167578097201538",
+        "in_reply_to_user_id": "1971168102349144065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044163316336210391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anni90083291396 上学最糟糕了……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971168102349144065",
+        "conversation_id": "2044163010378510429",
+        "created_at": "2026-04-14T21:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T22:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044163316336210391"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044163316336210391",
+        "in_reply_to_user_id": "1971168102349144065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044163010378510429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我只是想混个学历为什么要这样折磨我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 74,
+          "like_count": 895,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 276
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T11:01:25.000Z",
+        "description": "我爱你们",
+        "id": "1971168102349144065",
+        "location": "Kowloon City District",
+        "name": "anni",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038670308534833152/IEH2YiXr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 59,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 111
+        },
+        "username": "anni90083291396",
+        "verified": false
+      }
+    ]
+  }
+}

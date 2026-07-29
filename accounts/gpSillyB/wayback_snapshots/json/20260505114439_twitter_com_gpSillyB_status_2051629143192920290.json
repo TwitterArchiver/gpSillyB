@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2051614863697621373",
+    "created_at": "2026-05-05T11:44:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T12:44:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051629143192920290"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1243590342911410176",
+          "start": 0,
+          "username": "bing2000100830"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051629143192920290",
+    "in_reply_to_user_id": "1243590342911410176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051614863697621373",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bing2000100830 猫，?鸡，!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1987,
+        "media_key": "3_2051614752020045824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHjMvz4bIAAHUNf.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2051614863697621373",
+        "created_at": "2026-05-05T11:44:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T12:44:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051629143192920290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1243590342911410176",
+              "start": 0,
+              "username": "bing2000100830"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051629143192920290",
+        "in_reply_to_user_id": "1243590342911410176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051614863697621373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bing2000100830 猫，?鸡，!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051614752020045824"
+          ]
+        },
+        "author_id": "1243590342911410176",
+        "conversation_id": "2051614863697621373",
+        "created_at": "2026-05-05T10:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051614863697621373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IAhLBM0qcy",
+              "end": 59,
+              "expanded_url": "https://x.com/bing2000100830/status/2051614863697621373/photo/1",
+              "media_key": "3_2051614752020045824",
+              "start": 36,
+              "url": "https://t.co/IAhLBM0qcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051614863697621373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 136,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我家白色猫怎么变成猫鸡了 😭😭喂阿片也不吃，天天吵着要吃什么晚安 😭😭 https://t.co/IAhLBM0qcy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 112,
+          "like_count": 3179,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 683
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-27T17:27:10.000Z",
+        "description": "世界还有很多值得我们逃避的东西。  \n💊",
+        "id": "1243590342911410176",
+        "location": "月球",
+        "name": "饼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043756949473497088/uBMN18oS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 1067,
+          "like_count": 36316,
+          "listed_count": 4,
+          "media_count": 89,
+          "tweet_count": 2078
+        },
+        "username": "bing2000100830",
+        "verified": false
+      }
+    ]
+  }
+}

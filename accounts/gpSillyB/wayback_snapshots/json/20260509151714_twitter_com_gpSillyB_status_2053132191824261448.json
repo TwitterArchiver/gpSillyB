@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053132188682735616"
+      ]
+    },
+    "author_id": "1682793693630304260",
+    "conversation_id": "2053132191824261448",
+    "created_at": "2026-05-09T15:17:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T16:16:03.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053131894481645664",
+      "2053132191824261448"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HgD2QUp1pd",
+          "end": 37,
+          "expanded_url": "https://x.com/gpSillyB/status/2053132191824261448/photo/1",
+          "media_key": "3_2053132188682735616",
+          "start": 14,
+          "url": "https://t.co/HgD2QUp1pd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053132191824261448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的天，我简直是完蛋了…… https://t.co/HgD2QUp1pd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2053132188682735616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4w2P9a0AAbj3F.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053131891839205376"
+          ]
+        },
+        "author_id": "1682793693630304260",
+        "conversation_id": "2053131894481645664",
+        "created_at": "2026-05-09T15:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T16:16:03.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053131894481645664",
+          "2053132191824261448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wheY0CIeCk",
+              "end": 37,
+              "expanded_url": "https://x.com/gpSillyB/status/2053131894481645664/photo/1",
+              "media_key": "3_2053131891839205376",
+              "start": 14,
+              "url": "https://t.co/wheY0CIeCk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053131894481645664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的天，我简直是完蛋了…… https://t.co/wheY0CIeCk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053132188682735616"
+          ]
+        },
+        "author_id": "1682793693630304260",
+        "conversation_id": "2053132191824261448",
+        "created_at": "2026-05-09T15:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T16:16:03.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053131894481645664",
+          "2053132191824261448"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HgD2QUp1pd",
+              "end": 37,
+              "expanded_url": "https://x.com/gpSillyB/status/2053132191824261448/photo/1",
+              "media_key": "3_2053132188682735616",
+              "start": 14,
+              "url": "https://t.co/HgD2QUp1pd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053132191824261448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的天，我简直是完蛋了…… https://t.co/HgD2QUp1pd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 149,
+          "like_count": 3733,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 823
+        },
+        "username": "gpSillyB",
+        "verified": false
+      }
+    ]
+  }
+}

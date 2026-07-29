@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2055288206061670715",
+    "created_at": "2026-05-15T14:44:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T15:44:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055298227696714132"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2039759562815733760",
+          "start": 0,
+          "username": "12sgcsb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055298227696714132",
+    "in_reply_to_user_id": "2039759562815733760",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055293588108607647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@12sgcsb 🦶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055293585126498304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXeoFKaoAAs9y2.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2055288206061670715",
+        "created_at": "2026-05-15T14:44:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055298227696714132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2039759562815733760",
+              "start": 0,
+              "username": "12sgcsb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055298227696714132",
+        "in_reply_to_user_id": "2039759562815733760",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055293588108607647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@12sgcsb 🦶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055293585126498304"
+          ]
+        },
+        "author_id": "2039759562815733760",
+        "conversation_id": "2055288206061670715",
+        "created_at": "2026-05-15T14:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055293588108607647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sxDZBWSMbV",
+              "end": 27,
+              "expanded_url": "https://x.com/12sgcsb/status/2055293588108607647/photo/1",
+              "media_key": "3_2055293585126498304",
+              "start": 4,
+              "url": "https://t.co/sxDZBWSMbV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055293588108607647",
+        "in_reply_to_user_id": "2039759562815733760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055288206061670715",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已认输 https://t.co/sxDZBWSMbV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 169,
+          "like_count": 4308,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 908
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T17:39:35.000Z",
+        "description": "12/烟袋/可咨询/不推销了，老实了",
+        "id": "2039759562815733760",
+        "location": "Kowloon City District",
+        "name": "12",
+        "pinned_tweet_id": "2055254591760122109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054091024755269634/yyjNfYaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 161,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 218
+        },
+        "username": "12sgcsb",
+        "verified": false
+      }
+    ]
+  }
+}

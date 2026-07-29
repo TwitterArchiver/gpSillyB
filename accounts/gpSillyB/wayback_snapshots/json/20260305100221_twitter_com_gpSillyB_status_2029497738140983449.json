@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2029458751573639350",
+    "created_at": "2026-03-05T10:02:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T11:02:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029497738140983449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1914102171190345728",
+          "start": 0,
+          "username": "y3t57l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029497738140983449",
+    "in_reply_to_user_id": "1914102171190345728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029458751573639350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y3t57l 年齢よりもむしろ個人によるものです"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2029458751573639350",
+        "created_at": "2026-03-05T10:02:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T11:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029497738140983449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1914102171190345728",
+              "start": 0,
+              "username": "y3t57l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029497738140983449",
+        "in_reply_to_user_id": "1914102171190345728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029458751573639350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y3t57l 年齢よりもむしろ個人によるものです"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914102171190345728",
+        "conversation_id": "2029458751573639350",
+        "created_at": "2026-03-05T07:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T08:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029458751573639350"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029458751573639350",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大人を舐めすぎっていうけど普通にガキに舐められるような態度のお前が悪いんじゃないの？私だって尊敬してる大人の1人や2人いるわ、お前は年齢関係なく人間性がカスだから舐めてんだよ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 31,
+          "like_count": 294,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 100
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T23:41:50.000Z",
+        "description": "中3 通院中",
+        "id": "1914102171190345728",
+        "location": "静岡と神奈川",
+        "name": "不登校ニート西成ホームレス",
+        "pinned_tweet_id": "1980248974440476676",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027636220608798720/JEDUQo5f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 114,
+          "like_count": 2566,
+          "listed_count": 8,
+          "media_count": 47,
+          "tweet_count": 1387
+        },
+        "username": "y3t57l",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2044163010378510429",
+    "created_at": "2026-04-15T06:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T07:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044296855237042360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1971168102349144065",
+          "start": 0,
+          "username": "anni90083291396"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044296855237042360",
+    "in_reply_to_user_id": "1971168102349144065",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044210057072841042",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anni90083291396 😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2044163010378510429",
+        "created_at": "2026-04-15T06:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T07:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044296855237042360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1971168102349144065",
+              "start": 0,
+              "username": "anni90083291396"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044296855237042360",
+        "in_reply_to_user_id": "1971168102349144065",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044210057072841042",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anni90083291396 😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971168102349144065",
+        "conversation_id": "2044163010378510429",
+        "created_at": "2026-04-15T00:23:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T01:23:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044210057072841042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1682793693630304260",
+              "start": 0,
+              "username": "gpSillyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044210057072841042",
+        "in_reply_to_user_id": "1682793693630304260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044167578097201538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gpSillyB 对的，，但是我也完全没想毕业之后或者大三大四怎么办，上班也好绝望a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 74,
+          "like_count": 896,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 277
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T11:01:25.000Z",
+        "description": "我爱你们",
+        "id": "1971168102349144065",
+        "location": "Kowloon City District",
+        "name": "anni",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038670308534833152/IEH2YiXr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 60,
+          "like_count": 223,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 118
+        },
+        "username": "anni90083291396",
+        "verified": false
+      }
+    ]
+  }
+}

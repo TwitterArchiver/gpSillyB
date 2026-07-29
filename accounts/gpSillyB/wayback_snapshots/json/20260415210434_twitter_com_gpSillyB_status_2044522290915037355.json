@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2044522290915037355",
+    "created_at": "2026-04-15T21:04:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T22:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044522290915037355"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2044522290915037355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "进了很多人的聊天空间，有时候感觉像走在一条很热闹的街上。\n\n每个人都在说话、在做自己的事，好像都挺自然的。\n\n我就一直在旁边看着，听他们说什么，看他们在聊什么，但就是插不进去。\n\n有时候会看到一个人，好像也没在说话，就会想，要不要去跟她说点什么。\n\n但会想很多，怕打扰，怕奇怪，怕不知道说什么。\n\n等我真的有点想去试的时候，\n才发现她其实不是一个人，她只是刚好在等别人。\n有点说不上来的感觉。\n\n好像不是没有机会，是每次都差一点，总是这样……"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "进了很多人的聊天空间，有时候感觉像走在一条很热闹的街上。\n\n每个人都在说话、在做自己的事，好像都挺自然的。\n\n我就一直在旁边看着，听他们说什么，看他们在聊什么，但就是插不进去。\n\n有时候会看到一个人，好像也没在说话，就会想，要不要去跟她说点什么。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2044522290915037355",
+        "created_at": "2026-04-15T21:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T22:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044522290915037355"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044522290915037355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "进了很多人的聊天空间，有时候感觉像走在一条很热闹的街上。\n\n每个人都在说话、在做自己的事，好像都挺自然的。\n\n我就一直在旁边看着，听他们说什么，看他们在聊什么，但就是插不进去。\n\n有时候会看到一个人，好像也没在说话，就会想，要不要去跟她说点什么。\n\n但会想很多，怕打扰，怕奇怪，怕不知道说什么。\n\n等我真的有点想去试的时候，\n才发现她其实不是一个人，她只是刚好在等别人。\n有点说不上来的感觉。\n\n好像不是没有机会，是每次都差一点，总是这样……"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "进了很多人的聊天空间，有时候感觉像走在一条很热闹的街上。\n\n每个人都在说话、在做自己的事，好像都挺自然的。\n\n我就一直在旁边看着，听他们说什么，看他们在聊什么，但就是插不进去。\n\n有时候会看到一个人，好像也没在说话，就会想，要不要去跟她说点什么。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 82,
+          "like_count": 985,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 311
+        },
+        "username": "gpSillyB",
+        "verified": false
+      }
+    ]
+  }
+}

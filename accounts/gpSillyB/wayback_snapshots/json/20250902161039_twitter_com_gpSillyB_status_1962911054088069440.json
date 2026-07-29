@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "1962911054088069440",
+    "created_at": "2025-09-02T16:10:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T17:10:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962911054088069440"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1962911054088069440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "誕生日に祝福してくれた人がたった一人だけだった、すごく寂しい。😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "1962911054088069440",
+        "created_at": "2025-09-02T16:10:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T17:10:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962911054088069440"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962911054088069440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "誕生日に祝福してくれた人がたった一人だけだった、すごく寂しい。😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 39,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 68
+        },
+        "username": "gpSillyB",
+        "verified": false
+      }
+    ]
+  }
+}

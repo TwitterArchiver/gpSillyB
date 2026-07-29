@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2039678951912812998",
+    "created_at": "2026-04-02T12:18:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T13:18:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039678951912812998"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2039678951912812998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "启动困难怎么这么麻烦……明明一切开始好转了的……连锁反应瞬间把我拉回低谷……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2039678951912812998",
+        "created_at": "2026-04-02T12:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T13:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039678951912812998"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039678951912812998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "启动困难怎么这么麻烦……明明一切开始好转了的……连锁反应瞬间把我拉回低谷……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 30,
+          "like_count": 345,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 133
+        },
+        "username": "gpSillyB",
+        "verified": false
+      }
+    ]
+  }
+}

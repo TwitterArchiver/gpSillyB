@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2046249965404782987",
+    "created_at": "2026-04-20T17:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T18:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046276773789438112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2015354038293037056",
+          "start": 0,
+          "username": "shutiaoxiximiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046276773789438112",
+    "in_reply_to_user_id": "2015354038293037056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046256766724522400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shutiaoxiximiao 那就玩玩吧!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2046249965404782987",
+        "created_at": "2026-04-20T17:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T18:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046276773789438112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2015354038293037056",
+              "start": 0,
+              "username": "shutiaoxiximiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046276773789438112",
+        "in_reply_to_user_id": "2015354038293037056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046256766724522400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shutiaoxiximiao 那就玩玩吧!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015354038293037056",
+        "conversation_id": "2046249965404782987",
+        "created_at": "2026-04-20T15:56:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T16:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046256766724522400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1682793693630304260",
+              "start": 0,
+              "username": "gpSillyB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046256766724522400",
+        "in_reply_to_user_id": "1682793693630304260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046254951794696402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gpSillyB 唉我差不多也是😔但是如果不买个电吉他玩玩的话心里会一直想着这事（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 101,
+          "like_count": 1539,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 421
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T09:20:39.000Z",
+        "description": "🟰艾露/🍟，怎么称呼请随意，会说很多负能量的话👿和很多意义不明的话💤/ od / 记录日常/如果不小心冒犯到你了我很抱歉\n晚安，永远最好的朋友小云@Ochette_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 73,
+                "username": "Ochette_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shutiaoxiximiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shutiaoxiximiao",
+                "start": 0,
+                "url": "https://t.co/2g0YrMIXju"
+              }
+            ]
+          }
+        },
+        "id": "2015354038293037056",
+        "location": "天国",
+        "name": "WLPS🍟",
+        "pinned_tweet_id": "2040398998427849130",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018330146793836544/3XSZZAvi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 150,
+          "like_count": 3988,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 740
+        },
+        "url": "https://t.co/2g0YrMIXju",
+        "username": "shutiaoxiximiao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2053196923604287911",
+    "created_at": "2026-05-10T03:05:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T04:05:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053310329640329545"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "722786741547982848",
+          "start": 0,
+          "username": "Jewel_Penelopec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053310329640329545",
+    "in_reply_to_user_id": "1682793693630304260",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053309509461049537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jewel_Penelopec 我太容易自欺了😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2053196923604287911",
+        "created_at": "2026-05-10T03:05:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:05:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053310329640329545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "722786741547982848",
+              "start": 0,
+              "username": "Jewel_Penelopec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053310329640329545",
+        "in_reply_to_user_id": "1682793693630304260",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053309509461049537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jewel_Penelopec 我太容易自欺了😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2053196923604287911",
+        "created_at": "2026-05-10T03:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053309509461049537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "722786741547982848",
+              "start": 0,
+              "username": "Jewel_Penelopec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053309509461049537",
+        "in_reply_to_user_id": "722786741547982848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053196923604287911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jewel_Penelopec 哇!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 150,
+          "like_count": 3830,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 847
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2016-04-20T13:59:22.000Z",
+        "description": "「众生于无始生死，无明所盖，爱结所系，长夜轮回生死，不知苦际。」 \n\n人类观察Observe / 研究Research \n\n边缘知识，世界探索 \n\n废话手册，随笔想 . 碎碎念 . 自说自；呓语 '梦呓'；动态话痨； \n\n“为真理正名”\n\n——\n\n“Don't you dare go hollow”",
+        "id": "722786741547982848",
+        "name": "花の専門店",
+        "pinned_tweet_id": "1918330143074131977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005005364777910272/hIGpZDqp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 293,
+          "like_count": 478,
+          "listed_count": 1,
+          "media_count": 893,
+          "tweet_count": 14444
+        },
+        "username": "Jewel_Penelopec",
+        "verified": false
+      }
+    ]
+  }
+}

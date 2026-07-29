@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2052310752921604352",
+    "created_at": "2026-05-07T14:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052394988512956622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1814688236398166016",
+          "start": 0,
+          "username": "loveyoluv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052394988512956622",
+    "in_reply_to_user_id": "1814688236398166016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052310752921604352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loveyoluv 我也～不过那个时候就有时候会因为反复失败放弃了。\n不过现在连尝试的动力都没了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2052310752921604352",
+        "created_at": "2026-05-07T14:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052394988512956622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1814688236398166016",
+              "start": 0,
+              "username": "loveyoluv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052394988512956622",
+        "in_reply_to_user_id": "1814688236398166016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052310752921604352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveyoluv 我也～不过那个时候就有时候会因为反复失败放弃了。\n不过现在连尝试的动力都没了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814688236398166016",
+        "conversation_id": "2052310752921604352",
+        "created_at": "2026-05-07T08:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T09:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052310752921604352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nini_incrypto_…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/nini_incrypto_/status/2052227031199629395",
+              "start": 81,
+              "url": "https://t.co/XJgDgzVzNx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052310752921604352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052227031199629395",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我青少年时期特别热爱游戏，已经到了可以无视阻碍的地步，执行任何关于游戏的事情都不会考虑，只是去做，失败了再尝试别的方式，最后总是成功的，所以我还蛮认同这个观点的 https://t.co/XJgDgzVzNx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 115,
+          "like_count": 3433,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 741
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T15:46:15.000Z",
+        "description": "男｜透明人｜开心发推 生气发推 伤心发推 无聊发推 情绪化发推 欢迎大家观察我•ᴗ• 这个世界很美好:P",
+        "id": "1814688236398166016",
+        "name": "x_x",
+        "pinned_tweet_id": "2050223323423105450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050553393027203072/lldNMe4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 539,
+          "like_count": 2689,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 541
+        },
+        "username": "loveyoluv",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "1945377763147571505",
+    "created_at": "2025-07-16T08:05:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T09:05:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945394391910146446"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 11,
+          "normalized_text": "日本",
+          "probability": 0.8596,
+          "start": 10,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1914102171190345728",
+          "start": 0,
+          "username": "_4jrilfk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945394391910146446",
+    "in_reply_to_user_id": "1914102171190345728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945377763147571505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_4jrilfk 日本は終わりだ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 433,
+        "media_key": "3_1945377756801351680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gv9ew0QXQAA50Kw.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "1945377763147571505",
+        "created_at": "2025-07-16T08:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T09:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945394391910146446"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "日本",
+              "probability": 0.8596,
+              "start": 10,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1914102171190345728",
+              "start": 0,
+              "username": "_4jrilfk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945394391910146446",
+        "in_reply_to_user_id": "1914102171190345728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945377763147571505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_4jrilfk 日本は終わりだ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945377756801351680"
+          ]
+        },
+        "author_id": "1914102171190345728",
+        "conversation_id": "1945377763147571505",
+        "created_at": "2025-07-16T06:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T07:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945377763147571505"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "日本",
+              "probability": 0.5385,
+              "start": 2,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LvGM8jdSEJ",
+              "end": 42,
+              "expanded_url": "https://x.com/_4jrilfk/status/1945377763147571505/photo/1",
+              "media_key": "3_1945377756801351680",
+              "start": 19,
+              "url": "https://t.co/LvGM8jdSEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945377763147571505",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 9,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "将来日本をコレにするのが私の夢なんだ https://t.co/LvGM8jdSEJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 40,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 44
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T23:41:50.000Z",
+        "description": "11🚺 鍵@4filq_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "4filq_"
+              }
+            ]
+          }
+        },
+        "id": "1914102171190345728",
+        "name": "お姫様にはなれない",
+        "pinned_tweet_id": "1944347284151689288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917955665911480320/V7AbR79M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 87,
+          "like_count": 863,
+          "listed_count": 4,
+          "media_count": 19,
+          "tweet_count": 390
+        },
+        "username": "_4jrilfk",
+        "verified": false
+      }
+    ]
+  }
+}

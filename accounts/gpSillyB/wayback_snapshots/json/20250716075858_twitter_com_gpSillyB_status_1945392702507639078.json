@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "1945373179129848112",
+    "created_at": "2025-07-16T07:58:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T08:58:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945392702507639078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1914102171190345728",
+          "start": 0,
+          "username": "_4jrilfk"
+        },
+        {
+          "end": 25,
+          "id": "1918991032433410048",
+          "start": 10,
+          "username": "ato1024imokenp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945392702507639078",
+    "in_reply_to_user_id": "1914102171190345728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945374612835197353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_4jrilfk @ato1024imokenp しまった😥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "1945373179129848112",
+        "created_at": "2025-07-16T07:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T08:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945392702507639078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1914102171190345728",
+              "start": 0,
+              "username": "_4jrilfk"
+            },
+            {
+              "end": 25,
+              "id": "1918991032433410048",
+              "start": 10,
+              "username": "ato1024imokenp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945392702507639078",
+        "in_reply_to_user_id": "1914102171190345728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945374612835197353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_4jrilfk @ato1024imokenp しまった😥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1914102171190345728",
+        "conversation_id": "1945373179129848112",
+        "created_at": "2025-07-16T06:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T07:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945374612835197353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918991032433410048",
+              "start": 0,
+              "username": "ato1024imokenp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945374612835197353",
+        "in_reply_to_user_id": "1918991032433410048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945373328291848608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ato1024imokenp インターネットの情報は政府が裏で操っているんだよ、電波やマインドコントロールから身を守る為ににとうあも頭にアルミホイルを巻こう！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "想交朋友👉👈",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 40,
+          "like_count": 107,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 43
+        },
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-20T23:41:50.000Z",
+        "description": "11🚺 鍵@4filq_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "4filq_"
+              }
+            ]
+          }
+        },
+        "id": "1914102171190345728",
+        "name": "お姫様にはなれない",
+        "pinned_tweet_id": "1944347284151689288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917955665911480320/V7AbR79M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 87,
+          "like_count": 864,
+          "listed_count": 4,
+          "media_count": 19,
+          "tweet_count": 394
+        },
+        "username": "_4jrilfk",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-04T11:28:15.000Z",
+        "description": "とうあ",
+        "id": "1918991032433410048",
+        "name": "とうあ🥀",
+        "pinned_tweet_id": "1938560360585515331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944345591238017025/3jVZUfSz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 89,
+          "like_count": 3692,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 2994
+        },
+        "username": "ato1024imokenp",
+        "verified": false
+      }
+    ]
+  }
+}
