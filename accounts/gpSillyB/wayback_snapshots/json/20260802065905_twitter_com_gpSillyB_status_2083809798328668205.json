@@ -1,0 +1,515 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2083594350307823690",
+    "created_at": "2026-08-02T06:59:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T07:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083809798328668205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1949348575378644992",
+          "start": 0,
+          "username": "Ace_Purin"
+        },
+        {
+          "end": 25,
+          "id": "1653666360604647424",
+          "start": 11,
+          "username": "congng1327122"
+        },
+        {
+          "end": 37,
+          "id": "2067466998393753600",
+          "start": 26,
+          "username": "yuki_youji"
+        },
+        {
+          "end": 47,
+          "id": "1751678476279779328",
+          "start": 38,
+          "username": "PWateraw"
+        },
+        {
+          "end": 57,
+          "id": "2068065912067104768",
+          "start": 48,
+          "username": "Zukawbit"
+        },
+        {
+          "end": 74,
+          "id": "1873807581392887811",
+          "start": 58,
+          "username": "BdBcqZ5aAZ66045"
+        },
+        {
+          "end": 83,
+          "id": "1819517540756082689",
+          "start": 75,
+          "username": "dsf2vvv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083809798328668205",
+    "in_reply_to_user_id": "1949348575378644992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083594350307823690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ace_Purin @congng1327122 @yuki_youji @PWateraw @Zukawbit @BdBcqZ5aAZ66045 @dsf2vvv 黑幕"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1419,
+        "media_key": "3_2083594338223955968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpqAuHaoAADNJM.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2083594350307823690",
+        "created_at": "2026-08-02T06:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T07:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083809798328668205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1949348575378644992",
+              "start": 0,
+              "username": "Ace_Purin"
+            },
+            {
+              "end": 25,
+              "id": "1653666360604647424",
+              "start": 11,
+              "username": "congng1327122"
+            },
+            {
+              "end": 37,
+              "id": "2067466998393753600",
+              "start": 26,
+              "username": "yuki_youji"
+            },
+            {
+              "end": 47,
+              "id": "1751678476279779328",
+              "start": 38,
+              "username": "PWateraw"
+            },
+            {
+              "end": 57,
+              "id": "2068065912067104768",
+              "start": 48,
+              "username": "Zukawbit"
+            },
+            {
+              "end": 74,
+              "id": "1873807581392887811",
+              "start": 58,
+              "username": "BdBcqZ5aAZ66045"
+            },
+            {
+              "end": 83,
+              "id": "1819517540756082689",
+              "start": 75,
+              "username": "dsf2vvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083809798328668205",
+        "in_reply_to_user_id": "1949348575378644992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083594350307823690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ace_Purin @congng1327122 @yuki_youji @PWateraw @Zukawbit @BdBcqZ5aAZ66045 @dsf2vvv 黑幕"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083594338223955968"
+          ]
+        },
+        "author_id": "1949348575378644992",
+        "conversation_id": "2083594350307823690",
+        "created_at": "2026-08-01T16:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083594350307823690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1653666360604647424",
+              "start": 9,
+              "username": "congng1327122"
+            },
+            {
+              "end": 40,
+              "id": "2067466998393753600",
+              "start": 29,
+              "username": "yuki_youji"
+            },
+            {
+              "end": 50,
+              "id": "1751678476279779328",
+              "start": 41,
+              "username": "PWateraw"
+            },
+            {
+              "end": 64,
+              "id": "2068065912067104768",
+              "start": 55,
+              "username": "Zukawbit"
+            },
+            {
+              "end": 81,
+              "id": "1873807581392887811",
+              "start": 65,
+              "username": "BdBcqZ5aAZ66045"
+            },
+            {
+              "end": 90,
+              "id": "1819517540756082689",
+              "start": 82,
+              "username": "dsf2vvv"
+            },
+            {
+              "end": 103,
+              "id": "1949348575378644992",
+              "start": 93,
+              "username": "Ace_Purin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nVxTuza8Uw",
+              "end": 141,
+              "expanded_url": "https://x.com/Ace_Purin/status/2083594350307823690/photo/1",
+              "media_key": "3_2083594338223955968",
+              "start": 118,
+              "url": "https://t.co/nVxTuza8Uw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083594350307823690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 211,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开奖喵\n大薯三重奏@congng1327122\n大薯两重奏@yuki_youji @PWateraw\n大薯自己@Zukawbit @BdBcqZ5aAZ66045 @dsf2vvv\n私信@Ace_Purin 领取奖品喵 请提供赞赏码🥺 https://t.co/nVxTuza8Uw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "name": "糖豆人人间体",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 206,
+          "like_count": 6629,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 1168
+        },
+        "url": "",
+        "username": "gpSillyB",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T05:58:17.000Z",
+        "description": "爱人@qngshu988723424｜💊 SH｜被block就是你的错",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "qngshu988723424"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ace_purin",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ace_purin",
+                "start": 0,
+                "url": "https://t.co/PkWlzvseLZ"
+              }
+            ]
+          }
+        },
+        "id": "1949348575378644992",
+        "location": "メジコン",
+        "name": "永雏布丁",
+        "pinned_tweet_id": "2033851547843719390",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041031144146423808/f-TPgWl2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 417,
+          "like_count": 4117,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 2851
+        },
+        "url": "https://t.co/PkWlzvseLZ",
+        "username": "Ace_Purin",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-03T07:42:51.000Z",
+        "description": "yukiso/愈｜我不怎么会回复 不过我很喜欢你们！感谢评论｜互fo 基本只回同类｜想了解我的请看置顶\n@crossyangshe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 52,
+                "username": "crossyangshe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ac22161",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ac22161",
+                "start": 0,
+                "url": "https://t.co/eE4dYT727y"
+              }
+            ]
+          }
+        },
+        "id": "1653666360604647424",
+        "location": "距离你0.1km",
+        "name": "小雨愈愈",
+        "pinned_tweet_id": "2075613937496973404",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076000289099046912/XGLbQTfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 314,
+          "like_count": 2312,
+          "listed_count": 0,
+          "media_count": 159,
+          "tweet_count": 1957
+        },
+        "url": "https://t.co/eE4dYT727y",
+        "username": "congng1327122",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-18T04:40:56.000Z",
+        "description": "地雷女｜osdd(人格分裂)｜躁郁｜焦虑｜x小窗可以闲聊｜🚪纯绿25｜妻子@woapmpble\n欢迎和由纪互fo，没回关可能是没看见，互fo小窗\n喜欢yuki欢迎入门，魔法少女会尽己所能地给你爱💖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "woapmpble"
+              }
+            ]
+          }
+        },
+        "id": "2067466998393753600",
+        "location": "乌托邦",
+        "name": "yuki由纪",
+        "pinned_tweet_id": "2081733452953723158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081208317226242048/8YVIk6XV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 256,
+          "like_count": 1131,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 642
+        },
+        "url": "",
+        "username": "yuki_youji",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T18:47:57.000Z",
+        "description": "2010.11.23|学生党|🏳️‍⚧️|乌蒙吃|互|只有在精神状态差的情况下上线（）|最最喜欢的老公大人 \n@Paxui",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 55,
+                "username": "Paxui"
+              }
+            ]
+          }
+        },
+        "id": "1751678476279779328",
+        "name": "千褔柊玥_Dongyue",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082067992100175872/Ob1KRjKj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 101,
+          "like_count": 293,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 509
+        },
+        "url": "",
+        "username": "PWateraw",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-19T20:19:35.000Z",
+        "description": "@Lomyral896444的附庸。\nenby，he/they|提前开始寻回互关，，，",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "Lomyral896444"
+              }
+            ]
+          }
+        },
+        "id": "2068065912067104768",
+        "name": "Larymol",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070795717145141248/z-fwyk8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 163,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "Zukawbit",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-30T19:05:24.000Z",
+        "description": "",
+        "id": "1873807581392887811",
+        "name": "橙汁",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066367050923307008/Sr9dXPTL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 86,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 80
+        },
+        "url": "",
+        "username": "BdBcqZ5aAZ66045",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-02T23:36:07.000Z",
+        "description": "",
+        "id": "1819517540756082689",
+        "name": "小黄鸭",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036865851232837634/fcXyptuJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 2755,
+          "like_count": 5550,
+          "listed_count": 1,
+          "media_count": 415,
+          "tweet_count": 10837
+        },
+        "url": "",
+        "username": "dsf2vvv",
+        "verified": false
+      }
+    ]
+  }
+}
