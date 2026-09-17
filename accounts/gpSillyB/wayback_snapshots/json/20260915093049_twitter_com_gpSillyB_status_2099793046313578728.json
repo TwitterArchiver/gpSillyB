@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2098856637717193171",
+    "created_at": "2026-09-15T09:30:49.000Z",
+    "display_text_range": [
+      17,
+      95
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T10:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099793046313578728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "722786741547982848",
+          "start": 0,
+          "username": "Jewel_Penelopec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099793046313578728",
+    "in_reply_to_user_id": "722786741547982848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098858098899439823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jewel_Penelopec 之前有个版本GPT就是这个样子的。。。每一句话后面都要问要不要给你做成表格，帮你梳理，做成图片。。我让他不说都没用。。而且他根本没能力搞那些。。。现在好多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2098856637717193171",
+        "created_at": "2026-09-15T09:30:49.000Z",
+        "display_text_range": [
+          17,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T10:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099793046313578728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "722786741547982848",
+              "start": 0,
+              "username": "Jewel_Penelopec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099793046313578728",
+        "in_reply_to_user_id": "722786741547982848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098858098899439823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jewel_Penelopec 之前有个版本GPT就是这个样子的。。。每一句话后面都要问要不要给你做成表格，帮你梳理，做成图片。。我让他不说都没用。。而且他根本没能力搞那些。。。现在好多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "722786741547982848",
+        "conversation_id": "2098856637717193171",
+        "created_at": "2026-09-12T19:35:40.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T20:35:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098858098899439823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098858098899439823",
+        "in_reply_to_user_id": "722786741547982848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 424,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098856637717193171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "或许是因为除了claude这样的，大部分AI都太过官话，你要说的人性话一点，可能就不那么容易让人产生反感了.. \nclaude就很闷骚，也不多问，不知道的就说不知道.. \n- 不过话说回来，为了扩展话题，可能那样做又是必要的.."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099793046313578728",
+        "name": "糖豆人人间体",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 213,
+          "like_count": 7573,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1247
+        },
+        "url": "",
+        "username": "gpSillyB",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-04-20T13:59:22.000Z",
+        "description": "「众生于无始生死，无明所盖，爱结所系，长夜轮回生死，不知苦际。」 \n\n人类观察Observe / 研究Research \n\n边缘知识，世界探索 \n\n随笔想 . 碎碎念 . 自说自,作为note；呓语 '梦呓'；动态话痨； \n\n“为真理正名”\n\n——\n\n“Don't you dare go hollow”",
+        "id": "722786741547982848",
+        "is_identity_verified": false,
+        "location": "\"绘画世界\"",
+        "most_recent_tweet_id": "2099728975706849496",
+        "name": "花の専門店",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/722786741547982848/1784520622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005005364777910272/hIGpZDqp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 376,
+          "like_count": 902,
+          "listed_count": 1,
+          "media_count": 1162,
+          "tweet_count": 15895
+        },
+        "url": "",
+        "username": "Jewel_Penelopec",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

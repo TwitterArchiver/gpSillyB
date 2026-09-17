@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1682793693630304260",
+    "conversation_id": "2097982651856781389",
+    "created_at": "2026-09-10T17:31:39.000Z",
+    "display_text_range": [
+      21,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T18:31:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098102115080327265"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "758173847115984897",
+          "start": 0,
+          "username": "HarugumoLee"
+        },
+        {
+          "end": 20,
+          "id": "1980612830824132609",
+          "start": 13,
+          "username": "seeFvn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098102115080327265",
+    "in_reply_to_user_id": "758173847115984897",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098042702860546115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HarugumoLee @seeFvn 哦还有这种假药的，我马上销毁😡"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2098042702860546115].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2098042702860546115",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2098042702860546115"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1682793693630304260",
+        "conversation_id": "2097982651856781389",
+        "created_at": "2026-09-10T17:31:39.000Z",
+        "display_text_range": [
+          21,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T18:31:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098102115080327265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "758173847115984897",
+              "start": 0,
+              "username": "HarugumoLee"
+            },
+            {
+              "end": 20,
+              "id": "1980612830824132609",
+              "start": 13,
+              "username": "seeFvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098102115080327265",
+        "in_reply_to_user_id": "758173847115984897",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098042702860546115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HarugumoLee @seeFvn 哦还有这种假药的，我马上销毁😡"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-07-22T16:44:22.000Z",
+        "description": "男/05/想认识更多人",
+        "id": "1682793693630304260",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098102115080327265",
+        "name": "糖豆人人间体",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848009456929607680/LuLPhR5m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 216,
+          "like_count": 7447,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 1235
+        },
+        "url": "",
+        "username": "gpSillyB",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-07-27T05:35:06.000Z",
+        "description": "我是Xepha INFP 药学陆本//英本Pharmaceutics 预备Pharmaceutical MRes //合理使用精神活性物质；互Fo请私// LGBTQ+友好；无偿药理咨询；同好交友大欢迎",
+        "id": "758173847115984897",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090114586003574843",
+        "name": "Haru Xepha",
+        "pinned_tweet_id": "1903901796617347501",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/758173847115984897/1721881103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882062463652466688/oT_NEeDa_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 68,
+          "like_count": 1421,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 251
+        },
+        "url": "",
+        "username": "HarugumoLee",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-21T12:31:20.000Z",
+        "description": "I have lost all/尊守 X 及国家行为规范\nEN 学习中/國語 OK/药理 OK/",
+        "id": "1980612830824132609",
+        "is_identity_verified": true,
+        "location": "Wales, United Kingdom",
+        "most_recent_tweet_id": "2098089011881590994",
+        "name": "ee",
+        "pinned_tweet_id": "2064581069702050184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980612830824132609/1785674871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042025344224653313/_OBGlLo3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 853,
+          "like_count": 10766,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 2300
+        },
+        "url": "",
+        "username": "seeFvn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
